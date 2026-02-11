@@ -1,21 +1,25 @@
 {
   "id": "a16z:moment",
-  "a16z_company_id": null,
+  "a16z_company_id": "350330",
   "name": "Moment",
   "slug": "moment",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Moment offers a modern, comprehensive, and accessible all-in-one solution for fixed income. Founded in 2022, Moment has quickly established itself as the leading fixed income infrastructure provider for global fintechs, traditional brokerages, and RIAs. The company's APIs power automated execution, data and analytics, and risk management for firms collectively representing 100B+ in assets.",
+  "website": "https://www.withmoment.com/",
+  "status": "active",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

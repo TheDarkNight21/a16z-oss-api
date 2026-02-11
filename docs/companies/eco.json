@@ -1,21 +1,25 @@
 {
   "id": "a16z:eco",
-  "a16z_company_id": null,
+  "a16z_company_id": "15831",
   "name": "Eco",
   "slug": "eco",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Eco enables any onchain action to be a simple, one-click stablesend. With Eco, apps can easily accept anyone’s preferred stablecoin, regardless of the network — unlocking stablecoin liquidity from any connected chain and giving users the simplest onchain experience. To make this possible, the Eco Protocol brings together Routes, Accounts, and Crowd Liquidity (coming soon) to give app developers the ultimate flexibility while prioritizing speed, cost, and security.",
+  "website": "https://eco.com",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

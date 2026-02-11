@@ -1,21 +1,27 @@
 {
   "id": "a16z:aerodome",
-  "a16z_company_id": null,
+  "a16z_company_id": "361105",
   "name": "Aerodome",
   "slug": "aerodome",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Aerodome is bringing the future of air support to public safety agencies around the world. Using a fully integrated, fully remote, automated, and AI-driven software operating system, we equip agencies with highly advanced, 24/7 drone-as-first-response capabilities. This means police and fire departments can automatically fly a drone to an emergency incident located anywhere in their city in less than 3 minutes, every time. State and Federal agencies can use Aerodome stations to immediately detect wildfires as soon as they start, helping prevent them from escalating into the devastating tragedies we've seen over the years.",
+  "website": "https://www.aerodome.com/",
+  "status": "active",
+  "sectors": [
+    "american-dynamism",
+    "ai"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:tradeblock",
-  "a16z_company_id": null,
+  "a16z_company_id": "372209",
   "name": "Tradeblock",
   "slug": "tradeblock",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "TradeBlock is a digital currency (i.e. bitcoin) data company that serves institutional clients. They conduct proprietary research on topics ranging from market trends to block chain analysis.",
+  "website": "https://tradeblock.com",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

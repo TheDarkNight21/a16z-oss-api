@@ -1,21 +1,28 @@
 {
   "id": "a16z:samsara",
-  "a16z_company_id": null,
+  "a16z_company_id": "371663",
   "name": "Samsara",
   "slug": "samsara",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Samsara is the pioneer of the Connected Operations™ Cloud, a system of record that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations.",
+  "website": "https://samsara.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "american-dynamism",
+    "growth"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

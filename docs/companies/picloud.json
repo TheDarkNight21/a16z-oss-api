@@ -1,21 +1,26 @@
 {
   "id": "a16z:picloud",
-  "a16z_company_id": null,
+  "a16z_company_id": "371200",
   "name": "PiCloud",
   "slug": "picloud",
-  "description": null,
+  "description": "Referral Source:  Cold email to Marc A\n\nFounder Sketches:  2 '08 CS grads from Berkeley\n\nBasic idea:  Enabling HPC customers today (have the vision to make this generally available to all cloud application) to access a cloud grid.  They insert a few lines of python code (extending to Java soon) into the application code to fetch the relevant data and run queries on a grid sitting on top of AWS.  Apparently (which was news to me), 25% of AWS's instances are in fact HPC today.  The vision - which may sound familiar - is to ultimately offer Computing Power as a Utility\n\nDoes the product exist:  Yes - in beta\n\nMetrics:  1,700 beta users today\n\nAmount Raised:  $35k grant from Lightspeed in Jan 09\n\nAmount raising:  $650k seed round\n\nEnthusiasm:  8 - very smart entrepreneurs with a very simple value prop today, but with a strong vision for how to make this a general purpose public or private cloud platform.",
   "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

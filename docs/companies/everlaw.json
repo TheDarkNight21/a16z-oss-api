@@ -1,21 +1,26 @@
 {
   "id": "a16z:everlaw",
-  "a16z_company_id": null,
+  "a16z_company_id": "370851",
   "name": "Everlaw",
   "slug": "everlaw",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Everlaw is a legal technology company serving 8 of the top 10 class action law firms and over 65% of state Attorneys General. The company is applying modern design principles and computer science advances to challenges in the legal industry.",
+  "website": "https://www.everlaw.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

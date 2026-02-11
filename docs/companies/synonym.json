@@ -1,21 +1,25 @@
 {
   "id": "a16z:synonym",
-  "a16z_company_id": null,
+  "a16z_company_id": "15669",
   "name": "Synonym",
   "slug": "synonym",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Synonym is a financing and development platform for essential biomanufacturing infrastructure. It builds production capacity for synthetic biology companies and creates a new asset class for investors. The company was founded in 2021 and is based in New York, New York.",
+  "website": "https://synonym.bio/",
+  "status": "active",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

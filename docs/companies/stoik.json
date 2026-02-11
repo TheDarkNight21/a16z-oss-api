@@ -1,21 +1,25 @@
 {
   "id": "a16z:stoik",
-  "a16z_company_id": null,
+  "a16z_company_id": "29201",
   "name": "Stoik",
   "slug": "stoik",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Stoïk is a developer of a cyber security platform that offers residual risk insurance, and ongoing monitoring. Stoïk provides insurance and security to free your business from cyber-risk.",
+  "website": "https://stoik.io",
+  "status": "active",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:zynga",
-  "a16z_company_id": null,
+  "a16z_company_id": "370933",
   "name": "Zynga",
   "slug": "zynga",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Zynga Inc. (Zynga) is the provider of social game services. The Company develops , market and operates online social games as live services played over the Internet and on social networking sites and mobile platforms. The Company's games are accessible on Facebook and other social networks, mobile platforms and Zynga.com. According to AppData, as of December 31, 2012, the Company had five of the top 10 games on Facebook based on DAUs. The Company's players are also more engaged, with the Company's games being played by 63 million DAUs, worldwide as of December 31, 2012. According to comScore, in the month of December 2012, players spent more time playing Zynga's mobile games than the next five mobile game developers combined.",
+  "website": "https://zynga.com",
+  "status": "exited",
+  "sectors": [
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

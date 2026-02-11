@@ -1,21 +1,27 @@
 {
   "id": "a16z:patch",
-  "a16z_company_id": null,
+  "a16z_company_id": "15847",
   "name": "Patch",
   "slug": "patch",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Patch is the infrastructure powering the carbon market of the future. Patch software brings together corporate buyers, project developers, financiers, and policymakers to increase transparency and modernize climate action. We provide companies like Bain & Company, Credit Suisse, Aviva, and Route access to the broadest network of vetted carbon credits available through direct purchases, multi-year offtake agreements, or in any digital transaction using our API. We also provide software that enables project developers and financiers like Carbon Streaming Corp., Anew, Eion, and Brilliant Planet to manage their operations and grow their sales, so they can scale their impact.",
+  "website": "https://www.patch.io",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

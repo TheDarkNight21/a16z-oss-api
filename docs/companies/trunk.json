@@ -1,21 +1,28 @@
 {
   "id": "a16z:trunk",
-  "a16z_company_id": null,
+  "a16z_company_id": "371295",
   "name": "Trunk",
   "slug": "trunk",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Trunk is a DevEx toolkit that enables you to ship code quickly while maintaining the guardrails necessary for a large team. Founded in 2021 and is based in San Francisco, California, United States.",
+  "website": "https://trunk.io/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed",
+    "infra"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

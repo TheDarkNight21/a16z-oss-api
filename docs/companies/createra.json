@@ -1,21 +1,26 @@
 {
   "id": "a16z:createra",
-  "a16z_company_id": null,
+  "a16z_company_id": "371359",
   "name": "Createra",
   "slug": "createra",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Createra is a UGC gaming metaverse platform that enable creators to build infinitely engaging 3D worlds and games. It is based on the fundamental belief that creativity is a talent that everyone possesses.",
+  "website": "https://createra.fun/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

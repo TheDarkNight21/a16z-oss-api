@@ -1,21 +1,25 @@
 {
   "id": "a16z:aztec",
-  "a16z_company_id": null,
+  "a16z_company_id": "29034",
   "name": "Aztec",
   "slug": "aztec",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Aztec develops an ethereum trading protocol that enables private transactions across the public blockchain. Aztec develops an ethereum trading protocol that enables private transactions across the public blockchain. Its renowned research team is the force behind PLONK, the lightning-fast standard in zero-knowledge technologies. The team has brought multiple R&D breakthroughs to Layer 2 on Ethereum and has deep experience in deploying complex cryptosystems to Web3.",
+  "website": "https://aztec.network",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

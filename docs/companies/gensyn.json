@@ -1,21 +1,26 @@
 {
   "id": "a16z:gensyn",
-  "a16z_company_id": null,
+  "a16z_company_id": "370901",
   "name": "Gensyn",
   "slug": "gensyn",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Gensyn is a machine learning computing protocol for the world's deep learning models. It connects all of the machine learning-competent compute hardware in the world, including GPUs and CPUs and makes it available to engineers, researchers, and academics.",
+  "website": "https://gensyn.ai",
+  "status": "active",
+  "sectors": [
+    "crypto",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

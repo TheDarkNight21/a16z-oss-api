@@ -1,21 +1,26 @@
 {
   "id": "a16z:platfora",
-  "a16z_company_id": null,
+  "a16z_company_id": "371075",
   "name": "Platfora",
   "slug": "platfora",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Platfora is the first company to harness the potential of Hadoop so that any business user can explore, interact with, and derive insight from massive data sets, and all via an intuitive and dynamic interface.",
+  "website": "https://www.platfora.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

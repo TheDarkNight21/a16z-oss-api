@@ -1,21 +1,25 @@
 {
   "id": "a16z:lyft",
-  "a16z_company_id": null,
+  "a16z_company_id": "371477",
   "name": "Lyft",
   "slug": "lyft",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Lyft designs, markets, and operates a mobile application that matches drivers with passengers who request rides, and also allows payment through the app. It also allows riders to schedule rides up to seven days in advance.\r\n\r\nIts services are primarily focused on college, university, and corporate communities. Lyft is a fast-growing ridesharingcompany in the U.S. and is available to 95 percent of the US population.\r\n\r\nLyft was founded in June 2012 by Logan Green and John Zimmer in San Francisco, California.",
+  "website": "https://lyft.com",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

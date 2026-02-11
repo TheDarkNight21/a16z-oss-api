@@ -1,21 +1,27 @@
 {
   "id": "a16z:yuno",
-  "a16z_company_id": null,
+  "a16z_company_id": "323720",
   "name": "Yuno",
   "slug": "yuno",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Yuno is a global payment orchestration platform that streamlines payments, financial services, and fraud management through a single integration. Trusted by McDonald’s, Carrefour, and Indrive, it consolidates payment methods, processors, and anti-fraud tools to boost approval rates, cut costs, and optimize revenue. With real-time insights and a unified interface, Yuno helps businesses scale efficiently and stay agile in a fast-evolving market.",
+  "website": "https://y.uno/",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

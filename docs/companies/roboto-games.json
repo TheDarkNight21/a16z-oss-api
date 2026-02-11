@@ -1,21 +1,25 @@
 {
   "id": "a16z:roboto-games",
-  "a16z_company_id": null,
+  "a16z_company_id": "323754",
   "name": "Roboto Games",
   "slug": "roboto-games",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Roboto Games is a game developer studio building synchronous multiplayer action games that are designed to be super fun.\r\n\r\nIn 2007 Roboto Gamesfounded ZipZapPlay, a web and Facebook games company, which they sold to PopCap and then became a part of Electronic Arts in 2011.",
+  "website": "https://robotogames.com",
+  "status": "active",
+  "sectors": [
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

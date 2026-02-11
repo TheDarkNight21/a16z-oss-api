@@ -1,21 +1,25 @@
 {
   "id": "a16z:k-id",
-  "a16z_company_id": null,
+  "a16z_company_id": "364477",
   "name": "k-ID",
   "slug": "k-id",
-  "description": null,
-  "website": null,
+  "description": "k-ID is transforming how kids and teens access age-appropriate game experiences and helping developers comply with global regulations with a first-of-its-kind suite of tools that make online game platforms safer, better, faster, and more empowering for young players.",
+  "website": "https://k-id.com/",
   "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "sectors": [
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

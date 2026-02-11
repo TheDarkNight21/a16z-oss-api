@@ -1,21 +1,28 @@
 {
   "id": "a16z:point",
-  "a16z_company_id": null,
+  "a16z_company_id": "15359",
   "name": "Point",
   "slug": "point",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Point is a home equity platform that helps homeowners access equity financing in exchange for a fractional share of the future value of their homes. With a Home Equity Investment, homeowners can eliminate debt, get through periods of financial hardship, and diversify their wealth.",
+  "website": "https://point.com",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

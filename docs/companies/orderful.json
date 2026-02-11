@@ -1,21 +1,25 @@
 {
   "id": "a16z:orderful",
-  "a16z_company_id": null,
+  "a16z_company_id": "14977",
   "name": "Orderful",
   "slug": "orderful",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Orderful is a network connecting the world's supply chain. Our SaaS platform enables buyers and sellers to immediately trade supply chain data. Enterprises connect once to our API and immediately trade EDI data with any trading partner in their supply chain.",
+  "website": "https://www.orderful.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

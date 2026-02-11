@@ -1,21 +1,27 @@
 {
   "id": "a16z:kong",
-  "a16z_company_id": null,
+  "a16z_company_id": "15567",
   "name": "Kong",
   "slug": "kong",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Kong is the cloud connectivity company offering the service connectivity platform designed for modern architectures. Kong powers APIs and microservices with an open source API gateway and service connectivity platform. It is cloud, protocol, and language agnostic, their products work seamlessly with both emerging and legacy technologies.",
+  "website": "https://konghq.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

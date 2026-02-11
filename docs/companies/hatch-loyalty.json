@@ -1,21 +1,25 @@
 {
   "id": "a16z:hatch-loyalty",
-  "a16z_company_id": null,
+  "a16z_company_id": "371039",
   "name": "Hatch Loyalty",
   "slug": "hatch-loyalty",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Hatch Loyalty is a simple, adaptable platform designed to help retailers and brands build stronger relationships with their customers. More than a loyalty company, Hatch makes insights actionable, enabling a more personalized and meaningful customer experience for retailers of all sizes. The world’s largest retailers and brands have access to theHatch platform’s full configurability, while small- to medium-sized businesses can access Hatch’s off-the-shelf marketing solution, Belly, which is already an industry-leading solution.",
+  "website": "https://www.stuzo.com/",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

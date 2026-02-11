@@ -1,21 +1,28 @@
 {
   "id": "a16z:ready-player-me",
-  "a16z_company_id": null,
+  "a16z_company_id": "331348",
   "name": "Ready Player Me",
   "slug": "ready-player-me",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Ready Player Me develops a cross-game avatar platform for the metaverse. It provides developers with an easy-to-integrate avatar creator and developer tools to give their users highly-personalized characters to help increase retention and engagement.",
+  "website": "https://readyplayer.me",
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "games",
+    "crypto",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

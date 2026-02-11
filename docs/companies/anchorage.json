@@ -1,21 +1,26 @@
 {
   "id": "a16z:anchorage",
-  "a16z_company_id": null,
+  "a16z_company_id": "15201",
   "name": "Anchorage",
   "slug": "anchorage",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Anchorage Digital is a regulated crypto platform that provides institutions with integrated financial services and infrastructure solutions. With the only federally chartered crypto bank in the US, as well as Anchorage Digital Singapore, which offers equivalent security and service standards, Anchorage Digital provides institutions an unparalleled combination of secure custody, regulatory compliance, product breadth, and client service.",
+  "website": "https://anchorage.com",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

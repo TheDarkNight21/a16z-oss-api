@@ -1,21 +1,27 @@
 {
   "id": "a16z:carbonated",
-  "a16z_company_id": null,
+  "a16z_company_id": "371130",
   "name": "Carbonated",
   "slug": "carbonated",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Carbonated is focused on developing highly competitive games for mobile devices. Carbonated's main focus is its upcoming mobile shooter, which uses AI to make the typically hardcore genre more accessible and easier to play with just one hand. It is also developing its own live ops system, Carbyne, which it will use to quickly deliver updates to its game.",
+  "website": "https://www.carbonated.com/",
+  "status": "active",
+  "sectors": [
+    "seed",
+    "games"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

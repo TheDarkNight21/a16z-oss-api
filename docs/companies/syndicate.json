@@ -1,21 +1,26 @@
 {
   "id": "a16z:syndicate",
-  "a16z_company_id": null,
+  "a16z_company_id": "15743",
   "name": "Syndicate",
   "slug": "syndicate",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Syndicate is a decentralized asset management platform and social network. It creates an investing syndicate for 1000x less time and money. Syndicate is a decentralized investing protocol and social network that's transforming how the world creates value.",
+  "website": "https://syndicate.io",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

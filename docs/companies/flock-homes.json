@@ -1,21 +1,26 @@
 {
   "id": "a16z:flock-homes",
-  "a16z_company_id": null,
+  "a16z_company_id": "371283",
   "name": "Flock Homes",
   "slug": "flock-homes",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Flock Homes allows individuals to own rental homes through portfolio shares. Flock Homes converts individual rental properties into fully-passive, diversified shares in a pool of houses. Flock helps rental property owners retire from being landlords. The company offers low-cost, tax-advantaged, hassle-free way to get and keep all the benefits of owning rental properties without any of the burdens.",
+  "website": "https://www.flockhomes.com/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "fintech"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,27 @@
 {
   "id": "a16z:whatnot",
-  "a16z_company_id": null,
+  "a16z_company_id": "15829",
   "name": "Whatnot",
   "slug": "whatnot",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Whatnot is a livestream shopping platform and marketplace where users buy and sell collectibles like Pokémon cards, sports cards, Funko Pops, and more.",
+  "website": "https://www.whatnot.com/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "growth"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

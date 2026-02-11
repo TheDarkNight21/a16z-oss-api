@@ -1,0 +1,642 @@
+[
+  {
+    "name": "Aktis Oncology",
+    "slug": "aktis-oncology"
+  },
+  {
+    "name": "Asserts",
+    "slug": "asserts"
+  },
+  {
+    "name": "Automatic Labs, Inc",
+    "slug": "automatic-labs-inc"
+  },
+  {
+    "name": "DeepMap.ai",
+    "slug": "deepmap-ai"
+  },
+  {
+    "name": "Groupon, Inc.",
+    "slug": "groupon-inc"
+  },
+  {
+    "name": "Julep",
+    "slug": "julep"
+  },
+  {
+    "name": "Keybase.io",
+    "slug": "keybase-io"
+  },
+  {
+    "name": "Knowmia",
+    "slug": "knowmia"
+  },
+  {
+    "name": "Lowkey.gg",
+    "slug": "lowkey-gg"
+  },
+  {
+    "name": "Luma",
+    "slug": "luma"
+  },
+  {
+    "name": "Massive Health, Inc.",
+    "slug": "massive-health-inc"
+  },
+  {
+    "name": "Memora Health",
+    "slug": "memora-health"
+  },
+  {
+    "name": "Parsec Gaming",
+    "slug": "parsec-gaming"
+  },
+  {
+    "name": "ProductHunt",
+    "slug": "producthunt"
+  },
+  {
+    "name": "Rigetti Quantum Computing",
+    "slug": "rigetti-quantum-computing"
+  },
+  {
+    "name": "Rival",
+    "slug": "rival"
+  },
+  {
+    "name": "Silver Tail Systems",
+    "slug": "silver-tail-systems"
+  },
+  {
+    "name": "Talaria",
+    "slug": "talaria"
+  },
+  {
+    "name": "Tmunity Therapeutics",
+    "slug": "tmunity-therapeutics"
+  },
+  {
+    "name": "Abridge",
+    "slug": "abridge"
+  },
+  {
+    "name": "Alchemy Health",
+    "slug": "alchemy-health"
+  },
+  {
+    "name": "All Day",
+    "slug": "all-day"
+  },
+  {
+    "name": "Alleviate Health",
+    "slug": "alleviate-health"
+  },
+  {
+    "name": "Alpha-9 Oncology",
+    "slug": "alpha-9-oncology"
+  },
+  {
+    "name": "Alta",
+    "slug": "alta"
+  },
+  {
+    "name": "Ambience Healthcare",
+    "slug": "ambience-healthcare"
+  },
+  {
+    "name": "Apeel Sciences",
+    "slug": "apeel-sciences"
+  },
+  {
+    "name": "Arcjet",
+    "slug": "arcjet"
+  },
+  {
+    "name": "Autograph.io",
+    "slug": "autograph-io"
+  },
+  {
+    "name": "Backbone Systems",
+    "slug": "backbone-systems"
+  },
+  {
+    "name": "BBA Inc",
+    "slug": "bba-inc"
+  },
+  {
+    "name": "Beacons",
+    "slug": "beacons"
+  },
+  {
+    "name": "Beeps",
+    "slug": "beeps"
+  },
+  {
+    "name": "Ber Sarai Labs",
+    "slug": "ber-sarai-labs"
+  },
+  {
+    "name": "Blackbird.xyz",
+    "slug": "blackbird-xyz"
+  },
+  {
+    "name": "Boltz",
+    "slug": "boltz"
+  },
+  {
+    "name": "Braid.ai",
+    "slug": "braid-ai"
+  },
+  {
+    "name": "Branch.co",
+    "slug": "branch-co"
+  },
+  {
+    "name": "Camu",
+    "slug": "camu"
+  },
+  {
+    "name": "Catena Labs",
+    "slug": "catena-labs"
+  },
+  {
+    "name": "CHIP Professionals",
+    "slug": "chip-professionals"
+  },
+  {
+    "name": "Clover Network",
+    "slug": "clover-network"
+  },
+  {
+    "name": "Coactive",
+    "slug": "coactive"
+  },
+  {
+    "name": "Concourse",
+    "slug": "concourse"
+  },
+  {
+    "name": "Culture Wireless",
+    "slug": "culture-wireless"
+  },
+  {
+    "name": "CX2",
+    "slug": "cx2"
+  },
+  {
+    "name": "Deepr",
+    "slug": "deepr"
+  },
+  {
+    "name": "DELV",
+    "slug": "delv"
+  },
+  {
+    "name": "DeSO",
+    "slug": "deso"
+  },
+  {
+    "name": "Destruction Labz",
+    "slug": "destruction-labz"
+  },
+  {
+    "name": "Dynamic Labs, Inc.",
+    "slug": "dynamic-labs-inc"
+  },
+  {
+    "name": "Dyno Therapeutics",
+    "slug": "dyno-therapeutics"
+  },
+  {
+    "name": "Equal IQ",
+    "slug": "equal-iq"
+  },
+  {
+    "name": "Espresso (Translucence Research Inc)",
+    "slug": "espresso-translucence-research-inc"
+  },
+  {
+    "name": "Fanatics",
+    "slug": "fanatics"
+  },
+  {
+    "name": "Fashivly",
+    "slug": "fashivly"
+  },
+  {
+    "name": "Feedplan",
+    "slug": "feedplan"
+  },
+  {
+    "name": "FingerprintsDAO",
+    "slug": "fingerprintsdao"
+  },
+  {
+    "name": "Firefly Health",
+    "slug": "firefly-health"
+  },
+  {
+    "name": "Flash Hoops",
+    "slug": "flash-hoops"
+  },
+  {
+    "name": "Forta Network",
+    "slug": "forta-network"
+  },
+  {
+    "name": "Forte Labs, Inc.",
+    "slug": "forte-labs-inc"
+  },
+  {
+    "name": "Freatic",
+    "slug": "freatic"
+  },
+  {
+    "name": "FWB",
+    "slug": "fwb"
+  },
+  {
+    "name": "GamerXSociety",
+    "slug": "gamerxsociety"
+  },
+  {
+    "name": "Gamma.app",
+    "slug": "gamma-app"
+  },
+  {
+    "name": "Gate Bio",
+    "slug": "gate-bio"
+  },
+  {
+    "name": "Glossbird",
+    "slug": "glossbird"
+  },
+  {
+    "name": "Greether",
+    "slug": "greether"
+  },
+  {
+    "name": "HappyRobot",
+    "slug": "happyrobot"
+  },
+  {
+    "name": "Here Not There, Inc.",
+    "slug": "here-not-there-inc"
+  },
+  {
+    "name": "Inferact",
+    "slug": "inferact"
+  },
+  {
+    "name": "Instart",
+    "slug": "instart"
+  },
+  {
+    "name": "K12 Crypto",
+    "slug": "k12-crypto"
+  },
+  {
+    "name": "Kadabra",
+    "slug": "kadabra"
+  },
+  {
+    "name": "Keep",
+    "slug": "keep"
+  },
+  {
+    "name": "Kiosk",
+    "slug": "kiosk"
+  },
+  {
+    "name": "kweliTV",
+    "slug": "kwelitv"
+  },
+  {
+    "name": "Larridin",
+    "slug": "larridin"
+  },
+  {
+    "name": "Leona Health",
+    "slug": "leona-health"
+  },
+  {
+    "name": "Loop",
+    "slug": "loop"
+  },
+  {
+    "name": "LootRush",
+    "slug": "lootrush"
+  },
+  {
+    "name": "LTSE Services, Inc.",
+    "slug": "ltse-services-inc"
+  },
+  {
+    "name": "Lumi Interactive",
+    "slug": "lumi-interactive"
+  },
+  {
+    "name": "Mainframe Industries",
+    "slug": "mainframe-industries"
+  },
+  {
+    "name": "Mediachain",
+    "slug": "mediachain"
+  },
+  {
+    "name": "MEGA",
+    "slug": "mega"
+  },
+  {
+    "name": "Method",
+    "slug": "method"
+  },
+  {
+    "name": "Mirage",
+    "slug": "mirage"
+  },
+  {
+    "name": "Mirelo AI",
+    "slug": "mirelo-ai"
+  },
+  {
+    "name": "MLT",
+    "slug": "mlt"
+  },
+  {
+    "name": "Morpho",
+    "slug": "morpho"
+  },
+  {
+    "name": "Mosaic",
+    "slug": "mosaic"
+  },
+  {
+    "name": "Mother Computer Inc.",
+    "slug": "mother-computer-inc"
+  },
+  {
+    "name": "Mountaintop Studios",
+    "slug": "mountaintop-studios"
+  },
+  {
+    "name": "Muse App Inc",
+    "slug": "muse-app-inc"
+  },
+  {
+    "name": "Neural Magic",
+    "slug": "neural-magic"
+  },
+  {
+    "name": "NG.CASH",
+    "slug": "ng-cash"
+  },
+  {
+    "name": "Niftmint",
+    "slug": "niftmint"
+  },
+  {
+    "name": "North Pole Security",
+    "slug": "north-pole-security"
+  },
+  {
+    "name": "Nym",
+    "slug": "nym"
+  },
+  {
+    "name": "One More Game",
+    "slug": "one-more-game"
+  },
+  {
+    "name": "Original Games",
+    "slug": "original-games"
+  },
+  {
+    "name": "Outing",
+    "slug": "outing"
+  },
+  {
+    "name": "Palmstreet",
+    "slug": "palmstreet"
+  },
+  {
+    "name": "Peepal.co",
+    "slug": "peepal-co"
+  },
+  {
+    "name": "Phylo",
+    "slug": "phylo"
+  },
+  {
+    "name": "Pindrop",
+    "slug": "pindrop"
+  },
+  {
+    "name": "Prisms",
+    "slug": "prisms"
+  },
+  {
+    "name": "Proof Holdings",
+    "slug": "proof-holdings"
+  },
+  {
+    "name": "Protege",
+    "slug": "protege"
+  },
+  {
+    "name": "Pug.AI",
+    "slug": "pug-ai"
+  },
+  {
+    "name": "Q Bio, Inc.",
+    "slug": "q-bio-inc"
+  },
+  {
+    "name": "RadEmploy",
+    "slug": "rademploy"
+  },
+  {
+    "name": "Radiant",
+    "slug": "radiant"
+  },
+  {
+    "name": "Rapid",
+    "slug": "rapid"
+  },
+  {
+    "name": "Relay",
+    "slug": "relay"
+  },
+  {
+    "name": "Replit",
+    "slug": "replit"
+  },
+  {
+    "name": "Rezo Therapeutics",
+    "slug": "rezo-therapeutics"
+  },
+  {
+    "name": "Rigup",
+    "slug": "rigup"
+  },
+  {
+    "name": "Rune Technologies",
+    "slug": "rune-technologies"
+  },
+  {
+    "name": "Salt AI",
+    "slug": "salt-ai"
+  },
+  {
+    "name": "Scene Infrastructure Co",
+    "slug": "scene-infrastructure-co"
+  },
+  {
+    "name": "Season Health",
+    "slug": "season-health"
+  },
+  {
+    "name": "Senra Systems",
+    "slug": "senra-systems"
+  },
+  {
+    "name": "Series Entertainment",
+    "slug": "series-entertainment"
+  },
+  {
+    "name": "Sharp Performance",
+    "slug": "sharp-performance"
+  },
+  {
+    "name": "Shizuku AI",
+    "slug": "shizuku-ai"
+  },
+  {
+    "name": "Shop Rodeo",
+    "slug": "shop-rodeo"
+  },
+  {
+    "name": "Singularity 6",
+    "slug": "singularity-6"
+  },
+  {
+    "name": "Skylight Health",
+    "slug": "skylight-health"
+  },
+  {
+    "name": "Sloyd",
+    "slug": "sloyd"
+  },
+  {
+    "name": "Spruce Systems",
+    "slug": "spruce-systems"
+  },
+  {
+    "name": "Stelo Labs, Inc.",
+    "slug": "stelo-labs-inc"
+  },
+  {
+    "name": "Stonks",
+    "slug": "stonks"
+  },
+  {
+    "name": "Supersonik",
+    "slug": "supersonik"
+  },
+  {
+    "name": "SwayBrand, Inc.",
+    "slug": "swaybrand-inc"
+  },
+  {
+    "name": "Tackle.io",
+    "slug": "tackle-io"
+  },
+  {
+    "name": "Tako",
+    "slug": "tako"
+  },
+  {
+    "name": "Tally Labs, Inc.",
+    "slug": "tally-labs-inc"
+  },
+  {
+    "name": "ternwheel",
+    "slug": "ternwheel"
+  },
+  {
+    "name": "Thinking Machines Lab",
+    "slug": "thinking-machines-lab"
+  },
+  {
+    "name": "Third Arc Bio",
+    "slug": "third-arc-bio"
+  },
+  {
+    "name": "Tigris Data",
+    "slug": "tigris-data"
+  },
+  {
+    "name": "Timbucktoo",
+    "slug": "timbucktoo"
+  },
+  {
+    "name": "Tlon",
+    "slug": "tlon"
+  },
+  {
+    "name": "Topography Health",
+    "slug": "topography-health"
+  },
+  {
+    "name": "TrueFi",
+    "slug": "truefi"
+  },
+  {
+    "name": "Turquoise Health",
+    "slug": "turquoise-health"
+  },
+  {
+    "name": "Unisound",
+    "slug": "unisound"
+  },
+  {
+    "name": "Ventus Therapeutics",
+    "slug": "ventus-therapeutics"
+  },
+  {
+    "name": "Viggle",
+    "slug": "viggle"
+  },
+  {
+    "name": "Virch Merch",
+    "slug": "virch-merch"
+  },
+  {
+    "name": "Wabi AI",
+    "slug": "wabi-ai"
+  },
+  {
+    "name": "Wealthmore",
+    "slug": "wealthmore"
+  },
+  {
+    "name": "XMTP Labs",
+    "slug": "xmtp-labs"
+  },
+  {
+    "name": "Yield Guild Games",
+    "slug": "yield-guild-games"
+  },
+  {
+    "name": "Yuga Labs (BAYC)",
+    "slug": "yuga-labs-bayc"
+  },
+  {
+    "name": "Zed.run",
+    "slug": "zed-run"
+  },
+  {
+    "name": "Zipline",
+    "slug": "zipline"
+  }
+]

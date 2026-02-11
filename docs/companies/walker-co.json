@@ -1,21 +1,26 @@
 {
   "id": "a16z:walker-co",
-  "a16z_company_id": null,
+  "a16z_company_id": "372187",
   "name": "Walker & Co.",
   "slug": "walker-co",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "We make health and beauty simple for people of color. Our vision is to build the world’s most consumer-centric health & beauty products company.\r\n\r\nWe want to completely reinvent the way our community learns about, purchases and enjoys health and beauty products. We’ll do this by developing, designing and testing products and services specifically tailored to our community's needs anddelivering on the promise of great customer service and a simple shopping experience.",
+  "website": "https://walkerandcompany.com/",
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

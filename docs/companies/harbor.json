@@ -1,21 +1,23 @@
 {
   "id": "a16z:harbor",
-  "a16z_company_id": null,
+  "a16z_company_id": "371160",
   "name": "Harbor",
   "slug": "harbor",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
+  "description": "Harbor is helping to power the next big wave in capital markets – tokenized securities - by automating regulatory compliance.  Harbor is reengineering private securities with blockchain technology to help usher in a new wave of tokenized securities backed by real-world assets, such as real estate, company equity, investment funds, and fine art. The Harbor platform, powered by its compliance protocol, is the first to ensure tokenized securities comply with existingsecurities laws on every trade, everywhere across the globe.",
+  "website": "https://harbor.com/",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
   "stages": [],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

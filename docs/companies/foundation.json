@@ -1,21 +1,27 @@
 {
   "id": "a16z:foundation",
-  "a16z_company_id": null,
+  "a16z_company_id": "14861",
   "name": "Foundation",
   "slug": "foundation",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Foundation Labs is a developer of a blockchain-based art marketplace used for creators, curators, and tastemakers. Foundation Labs is a developer of a blockchain-based art marketplace used for creators, curators, and tastemakers. It uses the power of the internet and crypto to bring totally new revenue streams and forms of ownership to art, design, and any creative output that allows the artists on the platform to issue tokens backed by their creations and the people who then purchase the tokens may then either redeem these tokens or trade them like any regular digital asset on an exchange.",
+  "website": "https://foundation.app",
+  "status": "active",
+  "sectors": [
+    "clf",
+    "crypto"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

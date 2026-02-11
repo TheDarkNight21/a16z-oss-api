@@ -1,21 +1,28 @@
 {
   "id": "a16z:okta",
-  "a16z_company_id": null,
+  "a16z_company_id": "15049",
   "name": "Okta",
   "slug": "okta",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Okta is a management platform that secures critical resources from cloud to ground for workforce and customers.\r\n\r\nOkta is the provider of identity for the enterprise. The Okta Identity Cloud connects and protects employees of many enterprises. It also securely connects enterprises to their partners, suppliers, and customers. With deep integrations to over 5,000 apps, the Okta Identity Cloud enables simple and secure access from any device.\r\n\r\nOkta helps customers fulfill their missions faster by making it safe and easy to use the technologies they need to do their significant work.",
+  "website": "https://www.okta.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

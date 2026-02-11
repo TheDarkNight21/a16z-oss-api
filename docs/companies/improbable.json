@@ -1,21 +1,25 @@
 {
   "id": "a16z:improbable",
-  "a16z_company_id": null,
+  "a16z_company_id": "372034",
   "name": "Improbable",
   "slug": "improbable",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Improbable is building a platform that enables a developer to easily create real-time, persistent simulations consisting of potentially billions of complex entities. These simulations are automatically distributed within the cloud and resources are allocated as necessary. All of which can be simultaneously accessed by thousands of users.\r\n\r\nThe developer can plug in pre-existing business logic/models and Improbable will scale these models on datasets many orders of magnitude larger than they could before.\r\n \r\nImprobable's technology has application in businesses as varied as gaming, healthcare, academia and defence.",
+  "website": "https://www.improbable.io/",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,27 @@
 {
   "id": "a16z:pahdo-labs",
-  "a16z_company_id": null,
+  "a16z_company_id": "15771",
   "name": "Pahdo Labs",
   "slug": "pahdo-labs",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Pahdo Labs is building an Anime-style action MMORPG and game creation platform. The company's mission is to cultivate a virtual world built by players, an online place where people can have a meaningful role in something bigger than themselves, own and share the products of their ingenuity, and foster a sense of belonging for others.",
+  "website": "https://pahdolabs.com",
+  "status": "active",
+  "sectors": [
+    "seed",
+    "games",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:zenefits",
-  "a16z_company_id": null,
+  "a16z_company_id": "371198",
   "name": "Zenefits",
   "slug": "zenefits",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Zenefits manages your benefits, payroll, and HR so you don't have to. No more paperwork. No more headaches.\r\n\r\nZenefits is 100% no-fingers-crossed-behind-our-back free, all online, and completely paperless.",
+  "website": "https://www.zenefits.com/",
+  "status": "active",
+  "sectors": [
+    "growth"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

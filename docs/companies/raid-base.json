@@ -1,21 +1,25 @@
 {
   "id": "a16z:raid-base",
-  "a16z_company_id": null,
+  "a16z_company_id": "371583",
   "name": "Raid Base",
   "slug": "raid-base",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Raid Base is a video game development company. The team is made of developers who actively play games and we established this studio to begin a more intimate dialogue with our players.",
+  "website": "https://raidbase.com",
+  "status": "active",
+  "sectors": [
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

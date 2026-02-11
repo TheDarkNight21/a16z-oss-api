@@ -1,21 +1,25 @@
 {
   "id": "a16z:cygnvs",
-  "a16z_company_id": null,
+  "a16z_company_id": "372018",
   "name": "CYGNVS",
   "slug": "cygnvs",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "CYGNVS provides a cyber crisis response platform designed to help organizations stay connected, confident, in control, and compliant before, during, and after a cyber crisis.",
+  "website": "https://cygnvs.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

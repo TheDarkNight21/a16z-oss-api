@@ -1,21 +1,26 @@
 {
   "id": "a16z:fudo",
-  "a16z_company_id": null,
+  "a16z_company_id": "370881",
   "name": "Fudo",
   "slug": "fudo",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Fudo builds simple but powerful software for restaurants that automates everything from orders, room configuration, inventory, supplier management, and more.",
+  "website": "https://fu.do",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "fintech"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,26 @@
 {
   "id": "a16z:wrapbook",
-  "a16z_company_id": null,
+  "a16z_company_id": "15885",
   "name": "Wrapbook",
   "slug": "wrapbook",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "For employers and project based workforces who work in media production, Wrapbook provides digital profiles that facilitate onboarding, paying and insuring workforces compliantly. Unlike traditional payroll, Wrapbook is easy to use, fast to wrap, and costs less.",
+  "website": "https://www.wrapbook.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

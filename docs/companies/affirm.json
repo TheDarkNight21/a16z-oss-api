@@ -1,21 +1,25 @@
 {
   "id": "a16z:affirm",
-  "a16z_company_id": null,
+  "a16z_company_id": "371966",
   "name": "Affirm",
   "slug": "affirm",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Affirm is a next-generation consumer finance company providing shoppers with instant point-of-sale financing for online purchases. Started by PayPal co-founder Max Levchin, Affirm?s data-driven approach looks beyond a standard credit score to reach broader consumer populations. Affirm's transparent financing solutions empower shoppers to buy now and pay later in monthly installments and at reasonable interest rates. These features help to improve sales conversions, boost basket sizes, increase repeat purchase, and maximize customer happiness.",
+  "website": "https://affirm.com",
+  "status": "exited",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

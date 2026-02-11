@@ -1,21 +1,27 @@
 {
   "id": "a16z:modernfi",
-  "a16z_company_id": null,
+  "a16z_company_id": "15663",
   "name": "ModernFi",
   "slug": "modernfi",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "ModernFi operates a deposit network that helps institutions grow, retain, and manage their deposits. Through the ModernFi deposit network, institutions can provide extended insurance to depositors through program banks, sweep excess funds to program banks, and receive funds on demand.",
+  "website": "https://modernfi.com/",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

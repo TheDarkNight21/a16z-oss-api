@@ -1,21 +1,25 @@
 {
   "id": "a16z:tanium",
-  "a16z_company_id": null,
+  "a16z_company_id": "15389",
   "name": "Tanium",
   "slug": "tanium",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Tanium Inc. provides systems management solutions to Fortune 500 customers. The company's product capabilities include Instant Querying that enables enterprises to identify and diagnose problems as they occur, and to ask questions to every endpoint in their environment; Instant Actions that makes changes across a client's entire network; and Plain English, which allows clients to ask questions in plain English. It offers incident response, information protection, unmanaged asset detection, software license management, audit and compliance, and patch management and software distribution solutions.",
+  "website": "https://tanium.com",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

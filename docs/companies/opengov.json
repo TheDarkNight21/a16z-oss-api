@@ -1,21 +1,26 @@
 {
   "id": "a16z:opengov",
-  "a16z_company_id": null,
+  "a16z_company_id": "371639",
   "name": "OpenGov",
   "slug": "opengov",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "OpenGov is the leader in AI and ERP solutions for local and state governments in the U.S. More than 2,000 cities, counties, state agencies, and special districts rely on the OpenGov Public Service Platform to operate efficiently, adapt to change, and strengthen public trust. OpenGov's platform spans asset management, permitting, tax collection, financials, budgeting, procurement, and open data. Driven by a mission to power more effective and accountable government, OpenGov envisions a future of high-performance government for every community.",
+  "website": "https://www.opengov.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

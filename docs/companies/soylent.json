@@ -1,21 +1,27 @@
 {
   "id": "a16z:soylent",
-  "a16z_company_id": null,
+  "a16z_company_id": "371563",
   "name": "Soylent",
   "slug": "soylent",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Soylent is a pioneer in food tech, producing delicious, functional foods, w/ complete nutrition that are good for the body & the planet. Soylent is on a mission to provide complete, sustainable nutrition that is accessible, appealing and affordable to all; and its line of products are engineered from the ground up to provide the vitamins, minerals, fats, carbohydrates and protein that the body needs - all in convenient packages.",
+  "website": "https://soylent.com/",
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

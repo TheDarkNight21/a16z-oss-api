@@ -1,21 +1,26 @@
 {
   "id": "a16z:worldcoin",
-  "a16z_company_id": null,
+  "a16z_company_id": "370905",
   "name": "Worldcoin",
   "slug": "worldcoin",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Worldcoin is a digital currency that will launch by giving a free share to every human on Earth. Worldcoin consists of a privacy-preserving digital identity (World ID) and, where laws allow, a digital currency (WLD) received simply for being human.",
+  "website": "https://worldcoin.org",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:rabbit",
-  "a16z_company_id": null,
+  "a16z_company_id": "371117",
   "name": "Rabbit",
   "slug": "rabbit",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Rabbit is about sharing your everyday. Watch your favorite shows with your friends, without being in the same room (or even the same city!). Collaborate with your coworkers when you're all on the road. Shop together for a birthday present for Mom, then sing her \"happy birthday\" with family far away. The possibilities are endless.",
+  "website": "https://rabb.it",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:dfinity",
-  "a16z_company_id": null,
+  "a16z_company_id": "15159",
   "name": "DFINITY",
   "slug": "dfinity",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "The DFINITY Foundation's mission is to build, promote, and maintain the Internet Computer — and by doing so, improve the world. The Internet Computer extends the functionality of the internet from connecting billions ofpeople to also providing millions of developers and entrepreneurs with a public compute platform — creating a revolutionary new way to build websites, enterprise systems and internet services within an open environment. This public software development platform is created by independent data centers around the world combining computing power using an advanced decentralized protocol called Internet Computer Protocol (ICP). This generational shift in computing aims to take on Big Tech and return the internet back to its free and open roots.",
+  "website": "https://dfinity.org",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

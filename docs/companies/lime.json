@@ -1,21 +1,26 @@
 {
   "id": "a16z:lime",
-  "a16z_company_id": null,
+  "a16z_company_id": "15217",
   "name": "Lime",
   "slug": "lime",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "We are proud to be launching LimeBike to revolutionize urban mobility, empowering people with more efficient, affordable, and sustainable transportation options. By utilizing modern mobile technology and systematically deploying thousands of smart-bikes, enabled with GPS and self-locking mechanisms, we can make bike sharing universally available and affordable with a station-less, subsidy free network unlike ever seen before. This will dramatically improve urban mobility, making the first and last mile faster, cheaper, and healthier. Users will be able to identify a bike on the street or on our app and with just two taps, will have access to $1 rides, with the ease to parking the bike at their destination. No more hunting for a distant docking station.",
+  "website": "https://www.li.me/",
+  "status": "active",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

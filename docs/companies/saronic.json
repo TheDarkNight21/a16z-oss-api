@@ -1,21 +1,27 @@
 {
   "id": "a16z:saronic",
-  "a16z_company_id": null,
+  "a16z_company_id": "360413",
   "name": "Saronic",
   "slug": "saronic",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Saronic provides naval and maritime forces with intelligent Autonomous Surface Vessels at scale, revolutionizing the future of naval warfare.",
+  "website": "https://www.saronic.com/",
+  "status": "active",
+  "sectors": [
+    "american-dynamism",
+    "ai"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

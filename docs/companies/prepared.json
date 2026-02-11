@@ -1,21 +1,26 @@
 {
   "id": "a16z:prepared",
-  "a16z_company_id": null,
+  "a16z_company_id": "361228",
   "name": "Prepared",
   "slug": "prepared",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Prepared is an end-to-end assistive AI platform that consolidates critical tools and data to a single screen, empowering call-takers, dispatchers, and supervisors with an all-in-one toolbox that fundamentally supercharges emergency response from pre-call to call to dispatch and beyond. Since its founding in 2019 has grown its reach to partner with over 1,000 agencies in 49 states that protect over 90M people.",
+  "website": "https://prepared911.com",
+  "status": "exited",
+  "sectors": [
+    "american-dynamism",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

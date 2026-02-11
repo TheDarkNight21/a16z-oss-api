@@ -1,21 +1,25 @@
 {
   "id": "a16z:zulily",
-  "a16z_company_id": null,
+  "a16z_company_id": "370989",
   "name": "Zulily",
   "slug": "zulily",
-  "description": null,
-  "website": null,
+  "description": "Flash sales for moms, babies and kids",
+  "website": "https://www.zulily.com/",
   "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

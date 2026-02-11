@@ -1,21 +1,28 @@
 {
   "id": "a16z:shield-ai",
-  "a16z_company_id": null,
+  "a16z_company_id": "15295",
   "name": "Shield AI",
   "slug": "shield-ai",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Shield AI's mission is to protect service members and innocent civilians with artificially intelligent systems.\r\n\r\nOur initial focus is on the last several miles of the battlefield where we lack capability to collect intelligence. This area is beyond the view of high altitude sensors, too dangerous for people, and too complex for robots to navigate. Consequently, service members are asked to make life altering decisions with limited information. Mistakes are made that cost lives and incur massive collateral damage. Such mistakes cause the United States to lose support of local populations and make conflict unwinnable. This problem is widely recognized throughout the DoD, including the most senior leadership.\r\n\r\nTo address this problem, we are building swarms of small intelligent robots to collect the critical missing information. The systems will scour indoor and outdoor spaces in search of threats and innocent people. They will be deployed by people, trucks, ships, aircraft, and other robots. These robots will become more numerous in combat areas than soldiers. Synthesized information will be presented to service members who will be empowered to make decisions leading to intended outcomes without collateral damage. Conflict becomes less brutal.",
+  "website": "https://shield.ai/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "american-dynamism",
+    "ai"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

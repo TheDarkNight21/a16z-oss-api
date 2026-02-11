@@ -1,21 +1,27 @@
 {
   "id": "a16z:belong",
-  "a16z_company_id": null,
+  "a16z_company_id": "371196",
   "name": "Belong",
   "slug": "belong",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "There is more than one American Dream. Owning your home is one of those dreams. It's been an aspiration for a long time, and we know that millions struggle to achieve it. But there are other American Dreams.\r\n\r\nSome of these dreams are about living differently than previous generations - for whom owning was everything. We may want to use our cash to start a business. We may want to experience new places. We may not have the money yet for home ownership, but still dream of living in a glorious home where we can put down roots and experience the sense of belonging.\r\n\r\nThis is a new mindset.\r\n\r\nWe are a community of people looking for a dream rental, and people who own properties and are looking for people who will love them. The old-school terms \"landlord\" and \"tenant\" don't apply in our world. Here, there are people who want to adopt homes for a while, and people who have wonderful residences ready for them.\r\n\r\nOur owners are not giant holding companies that own thousands of homes and view them as pure financial assets. There's a level of mutual respect and caring in our world that simply doesn't exist in the transactional, brutalist world of landlords and tenants.\r\n\r\nWe manage properties for our owners, and treat the people who live there with the attention, speed and concern they deserve. And we support those who are living an ownership-free lifestyle by creating a true community everywhere we are. Our residents are connected not only to each other, but also to the local merchants, events, and institutions that give communities their unique character. Before, renters often felt like second-class citizens; with us, they are an immediate and integral part of the community.\r\n\r\nSo, whether you own property and you're looking for someone to live in it and love it, or you're looking for a home where you can put down roots for however long you're planning to be there, we are the answer.\r\n\r\nRenting is the new American lifestyle. We didn't create it, but we're making it sing.",
+  "website": "https://belonghome.com",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

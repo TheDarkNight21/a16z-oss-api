@@ -1,21 +1,26 @@
 {
   "id": "a16z:asana",
-  "a16z_company_id": null,
+  "a16z_company_id": "15653",
   "name": "Asana",
   "slug": "asana",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Asana builds enterprise-level collaboration software. It's the shared task list for your team. The place to plan, organize and stay in sync on your efforts. It helps teams orchestrate their work, from small projects to strategic initiatives.",
+  "website": "https://asana.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

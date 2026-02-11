@@ -1,21 +1,27 @@
 {
   "id": "a16z:planetscale",
-  "a16z_company_id": null,
+  "a16z_company_id": "14957",
   "name": "PlanetScale",
   "slug": "planetscale",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "PlanetScale was founded in 2018 by the creators of Vitess - an open source project born at Youtube and hosted by CNCF that runs very large OLTP workloads at companies such as GitHub, Slack and Square. PlanetScale provides enterprise support for Vitess and offers a massively scalable multi-cloud transactional database-as-a-service using Vitess and Kubernetes. PlanetScale is backed by a16z (blog by Peter Levine) and SignalFire (blog by Ilya Kernos) and is based in Mountain View, CA.",
+  "website": "https://planetscale.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

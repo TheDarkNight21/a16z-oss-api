@@ -1,21 +1,25 @@
 {
   "id": "a16z:wingspan",
-  "a16z_company_id": null,
+  "a16z_company_id": "36642",
   "name": "Wingspan",
   "slug": "wingspan",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Wingspan is a platform for freelancers to manage income, benefits, and taxes. Its platform sends invoices with tools that make receiving payments easier, automatically handles bookkeeping and expenses, and finds tax deductions.",
+  "website": "https://www.wingspan.app/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

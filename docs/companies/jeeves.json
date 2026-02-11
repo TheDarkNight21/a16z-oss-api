@@ -1,21 +1,26 @@
 {
   "id": "a16z:jeeves",
-  "a16z_company_id": null,
+  "a16z_company_id": "371063",
   "name": "Jeeves",
   "slug": "jeeves",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Jeeves is a fintech that brings financial solutions to empower businesses globally. Jeeves is building international fintech infrastructure from scratch; this includes a global switching layer across countries and the ability to run all the company spends -- corporate cards, noncard and cross-border payment -- on Jeeves.",
+  "website": "https://tryjeeves.com/",
+  "status": "active",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

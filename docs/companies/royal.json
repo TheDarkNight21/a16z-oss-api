@@ -1,21 +1,25 @@
 {
   "id": "a16z:royal",
-  "a16z_company_id": null,
+  "a16z_company_id": "32539",
   "name": "Royal",
   "slug": "royal",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Royal is a developer of an NFT-based music platform used to allow buy ownership in songs. It also allows artists to create their music and convert it to non-fungible tokens (NFT) and sell them by using limited digital assets (LDA) technology that enables fans to invest in artists and earn royalties alongside them.",
+  "website": "https://royal.io",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

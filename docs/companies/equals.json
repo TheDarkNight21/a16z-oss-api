@@ -1,21 +1,26 @@
 {
   "id": "a16z:equals",
-  "a16z_company_id": null,
+  "a16z_company_id": "370873",
   "name": "Equals",
   "slug": "equals",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Equals is a spreadsheet startup aiming to challenge and replace Excel with its next-generation spreadsheet. The startup provides a spreadsheet with built-in connections to any database, versioning, and collaboration. It enables users to build any analysis with data directly from their database, whether or not they know SQL.",
+  "website": "https://equals.app",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

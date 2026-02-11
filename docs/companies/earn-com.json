@@ -1,21 +1,26 @@
 {
   "id": "a16z:earn-com",
-  "a16z_company_id": null,
+  "a16z_company_id": "372177",
   "name": "Earn.com",
   "slug": "earn-com",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Earn money for replying to emails and completing tasks. We're building a token-based social network, where senders pay users in digital currency to complete tasks and reply to emails. If we're successful, it will be one of the first major applications of digital currency for the regular user.",
+  "website": "https://earn.com",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

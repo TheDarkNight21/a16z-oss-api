@@ -1,21 +1,27 @@
 {
   "id": "a16z:compound",
-  "a16z_company_id": null,
+  "a16z_company_id": "371371",
   "name": "Compound",
   "slug": "compound",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "We're blockchain enthusiasts working together in San Francisco, California with a mission to make Ethereum assets more efficient and productive. The majority of cryptocurrencies sit idle on exchanges and in wallets, yielding no interest. At Compound, we're creating interest rate markets to unlock the value of these assets, empowering investors with new opportunities to profit. We are developing an Ethereum protocol that establishes money markets with algorithmically set interest rates. Compound algorithmically adjusts money market interest rates based on asset-specific supply and demand. That means that for the first time, users and applications can frictionlessly exchange the time value of Ethereum assets without having to negotiate terms, rates, or complex flows. Each money market is transparent, auditable, and completely predictable; perfect for profit-seeking humans and machines alike.",
+  "website": "https://compound.finance",
+  "status": "active",
+  "sectors": [
+    "clf",
+    "crypto"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:oculus-vr",
-  "a16z_company_id": null,
+  "a16z_company_id": "370825",
   "name": "Oculus VR",
   "slug": "oculus-vr",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Oculus is a technology company revolutionizing the way people experience video games. The company was founded by Palmer Luckey and veterans of RedOctane, developers of the acclaimed Guitar Hero series; Scaleform, the #1 user interface software in the gaming; and Gaikai, the cloud gaming company.",
+  "website": "https://store.facebook.com/quest/",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:nansen",
-  "a16z_company_id": null,
+  "a16z_company_id": "37199",
   "name": "Nansen",
   "slug": "nansen",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Nansen is a blockchain analytics platform for crypto professionals and investors. Nansen enriches on-chain data with millions of wallets labels. Crypto investors use Nansen to discover opportunities, perform due diligence and defend their portfolios with its real-time dashboards and alerts.",
+  "website": "https://nansen.ai",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

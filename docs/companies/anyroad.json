@@ -1,21 +1,25 @@
 {
   "id": "a16z:anyroad",
-  "a16z_company_id": null,
+  "a16z_company_id": "372189",
   "name": "AnyRoad",
   "slug": "anyroad",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "AnyRoad is the market leader in Experiential Marketing. AnyRoad’s industry-leading platform enables businesses to operate and optimize their events, tours, classes, and activations to grow consumer brand loyalty and drive greater ROI.",
+  "website": "https://anyroad.com",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

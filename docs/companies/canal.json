@@ -1,21 +1,27 @@
 {
   "id": "a16z:canal",
-  "a16z_company_id": null,
+  "a16z_company_id": "372225",
   "name": "Canal",
   "slug": "canal",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Canal is a distributed commerce platform that facilitates the retail or purchase of any product online. Canal is engaged in building a curated network of brands that are ready to unlock novel revenue streams wherein it reaches consumers at the point of purchase intent while shopping instead of post-purchase.",
+  "website": "https://shopcanal.com/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,26 @@
 {
   "id": "a16z:earnin",
-  "a16z_company_id": null,
+  "a16z_company_id": "15457",
   "name": "Earnin",
   "slug": "earnin",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Earnin is the new, faster way to get your paycheck. Unlike traditional, rigid paychecks that only show up every two weeks, Earnin gives you access to your pay as you earn it -- any time, any day, right from your smartphone. Earnin charges no fee or interest for using the service: instead, with each transaction users are given the opportunity topay what they believe is fair",
+  "website": "https://www.earnin.com/",
+  "status": "active",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

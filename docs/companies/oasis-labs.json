@@ -1,21 +1,25 @@
 {
   "id": "a16z:oasis-labs",
-  "a16z_company_id": null,
+  "a16z_company_id": "15111",
   "name": "Oasis Labs",
   "slug": "oasis-labs",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Oasis Labs is a privacy-first cloud computing platform on blockchain technology. They are building a new computing platform that enables cloud-scale, real-world applications with decentralized trust and privacy protection; in short, a privacy-first, high-performance cloud computing platform on blockchain.",
+  "website": "https://www.oasislabs.com/",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

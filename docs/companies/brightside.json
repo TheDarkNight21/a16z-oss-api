@@ -1,21 +1,26 @@
 {
   "id": "a16z:brightside",
-  "a16z_company_id": null,
+  "a16z_company_id": "371314",
   "name": "Brightside",
   "slug": "brightside",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Brightside is an employer-based financial health solution that combines personal assistants and an innovative partner platform. Brightside is inventing a new category of financial health company — Financial Care. Brightside provides employers with a complete platform of financial solutions, focused on the 2/3 of workers who are living paycheck to paycheck and driving the cost of poor financial health (turnover, healthcare costs, productivity, DEI, and safety) forcompanies with front-line workers. Brightside combines these solutions with tech-powered financial assistants and an app that ties it all together and helps influence employees and their families to better financial health.",
+  "website": "https://gobrightside.com",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "fintech"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,28 @@
 {
   "id": "a16z:lightup",
-  "a16z_company_id": null,
+  "a16z_company_id": "14971",
   "name": "Lightup",
   "slug": "lightup",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Lightup enables data-driven businesses to achieve their full potential. Modern businesses are dealing with unprecedented volumes of real-time data, operating in environments that are constantly changing internally and externally. To get the most out of data-driven operations, businesses need the ability to continuously measure the performance of their data-driven operations at fine granularity across the entire pipeline. Lightup is enabling businesses to continuously track vitals of their data-driven operations at the finest granularity, catch problems before their customers do, and fix them before they impact business. \r\n\r\nThe founding team brings together a unique combination of experience in big data, stream processing and rigorous statistical signal processing - crucial for building a data stability platform. We have over three decades of industry experience in multiple game changing startups and industry stalwarts like Google, GlobalFoundries and VMware.",
+  "website": "https://www.lightup.ai/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "clf",
+    "infra"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

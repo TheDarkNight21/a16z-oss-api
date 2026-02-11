@@ -1,21 +1,25 @@
 {
   "id": "a16z:arpeggi-labs",
-  "a16z_company_id": null,
+  "a16z_company_id": "37293",
   "name": "Arpeggi Labs",
   "slug": "arpeggi-labs",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Arpeggi Labs develops an online music creation tool that leverages web3 to build an open-source music creation. It allows musicians to compose and mint their songs as fully on-chain NFTs and enables artists to benefit from blockchain technology. The creation, collaboration, and monetization processes used by musicians could be transformed byblockchain technology.",
+  "website": "https://arpeggi.io",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

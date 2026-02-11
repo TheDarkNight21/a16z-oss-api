@@ -1,21 +1,28 @@
 {
   "id": "a16z:reflektive",
-  "a16z_company_id": null,
+  "a16z_company_id": "371503",
   "name": "Reflektive",
   "slug": "reflektive",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Reflektive is solving a problem in the work place that has plagued us for decades: we don't get feedback quickly enough, that is relevant, and that is actionable enough to do anything about.  Annual reviews never have enough context, and both employees and managers forget what actually happened.  Reflektive gives employees and managers a platform to provide each other with positive and constructive feedback immediately,  creating a culture and expectation of accountability. The data that is gathered in the process is meaningful and useful, and the process makes team members feel more engaged, connected, and productive.  Other platforms tackle pieces of this process, but they do it in an old-fashioned, linear way.  Reflektive is the first product that focuses on a holistic, 360° review process.",
+  "website": "https://www.reflektive.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

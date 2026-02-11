@@ -1,21 +1,26 @@
 {
   "id": "a16z:proven",
-  "a16z_company_id": null,
+  "a16z_company_id": "371272",
   "name": "Proven",
   "slug": "proven",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Proven operates as a hiring tool intended for small businesses. The platform takes hiring on the go with fully native apps for iOS and Android. Employers can review resumes, respond to candidates, and even post a new job all from a smartphone. The company was founded in 2009 and is based in San Francisco, California.",
+  "website": "https://www.proven.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

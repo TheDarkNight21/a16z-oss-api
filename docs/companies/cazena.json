@@ -1,21 +1,25 @@
 {
   "id": "a16z:cazena",
-  "a16z_company_id": null,
+  "a16z_company_id": "371862",
   "name": "Cazena",
   "slug": "cazena",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Big data is too hard and too slow. Enterprises need big data on demand. Cazena was founded by former Netezza leaders with a mission to radically simplify and speed up access to big data, allowing much faster business outcomes at a fraction of the cost. Cazena is backed by Andreessen Horowitz and North Bridge Venture Partners.",
+  "website": "https://www.cazena.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,27 @@
 {
   "id": "a16z:infinite-athlete",
-  "a16z_company_id": null,
+  "a16z_company_id": "350948",
   "name": "Infinite Athlete",
   "slug": "infinite-athlete",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Born out of the idea that the world can do better in all aspects of sports and live events – the fan, the game, and the athlete experience – Infinite Athlete’s mission is to create a single technological foundation across all major sports, upon which innovative sports technology and media products can be built. This foundation will combine and connect sports data from all sources, which will create infinite possibilities.\r\nWe also create interactive AR experiences for fans that improve the engagement with teams and players. These experiences can be personalized and easily integrate with social media.\r\n\r\nWith unprecedented access to sporting events, we aim to partner with sports leagues around the world to implement this technology. With hands-on R&D at live events, we are developing edge hardware that streams to our cloud-based ML systems.",
+  "website": "https://infiniteathlete.ai/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "clf"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

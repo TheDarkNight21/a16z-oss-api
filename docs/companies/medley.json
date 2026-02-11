@@ -1,21 +1,26 @@
 {
   "id": "a16z:medley",
-  "a16z_company_id": null,
+  "a16z_company_id": "371244",
   "name": "Medley",
   "slug": "medley",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Medley is a membership for curious, growth-minded people who want a structured, social, and accessible way to invest in themselves. Medley is a network of the future united by a shared commitment to growth, on a mission to make high-quality experiences engaging and accessible to broader audiences. Members are algorithmically matched into small, diverse groups and led in monthly sessions by certified coaches. Medley members benefit not only from these curated sessions, but alsoa community built on diverse perspectives – leading to positive, enriching, and engaging interactions.",
+  "website": "https://www.withmedley.com/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:mythical-games",
-  "a16z_company_id": null,
+  "a16z_company_id": "371699",
   "name": "Mythical Games",
   "slug": "mythical-games",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Mythical Games is a video game engine for player-owned economies. Mythical is a next-generation game technology studio. Mythical Games believes that true ownership of digital assets, verifiable scarcity, and integrated secondary markets will spawn a new generation of games. These new economies, based on digital ownership, will bring players, developers, and content creators closer to the games they love.",
+  "website": "https://mythicalgames.com",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

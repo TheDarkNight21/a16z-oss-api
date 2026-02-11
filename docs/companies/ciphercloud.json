@@ -1,21 +1,27 @@
 {
   "id": "a16z:ciphercloud",
-  "a16z_company_id": null,
+  "a16z_company_id": "15571",
   "name": "CipherCloud",
   "slug": "ciphercloud",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Pravin was a co-founder and VP of Engineering at Arcsight (Now\nHP).  CipherCloud provides award-winning cloud data encryption and tokenization solutions technology to protect sensitive data on the fly before it's sent to the\ncloud.",
+  "website": "https://www.lookout.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

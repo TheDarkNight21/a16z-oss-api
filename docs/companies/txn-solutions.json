@@ -1,21 +1,28 @@
 {
   "id": "a16z:txn-solutions",
-  "a16z_company_id": null,
+  "a16z_company_id": "371379",
   "name": "TXN Solutions",
   "slug": "txn-solutions",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "TXN is a consumer spending and sentiment analytics service for businesses.  Combining purchase data from our proprietary consumer data panel and qualitative feedback from our targeted surveys, we allow merchants of all kinds to uncover insight about themselves, their customers, their competitors, and their partners.",
+  "website": "https://txn.com/",
+  "status": "exited",
+  "sectors": [
+    "fintech",
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

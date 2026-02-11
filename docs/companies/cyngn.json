@@ -1,21 +1,26 @@
 {
   "id": "a16z:cyngn",
-  "a16z_company_id": null,
+  "a16z_company_id": "371507",
   "name": "Cyngn",
   "slug": "cyngn",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Cyngn's autonomous vehicle software integrates with a suite of commercially available sensors and hardware to deliver safe, scalable, and efficient self-driving vehicle solutions to industrial organizations. Our solution is vehicle agnostic, which means heterogeneous fleets can tap into autonomy, switching easily between fully-autonomous, remotely-controlled, and manual modes.",
+  "website": "https://www.cyngn.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

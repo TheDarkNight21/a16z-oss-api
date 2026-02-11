@@ -1,21 +1,26 @@
 {
   "id": "a16z:buzzfeed",
-  "a16z_company_id": null,
+  "a16z_company_id": "370913",
   "name": "BuzzFeed",
   "slug": "buzzfeed",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Media|Publishing|Entertainment BuzzFeed is a company. Focused on delivering reporting, and viral content across subject areas. Our technology detects what is trending on the web, and connects people in realtime with content of the moment. Our site is rapidly growing and reaches more than 60 million monthly unique visitors.",
+  "website": "https://buzzfeed.com",
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

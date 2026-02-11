@@ -1,21 +1,25 @@
 {
   "id": "a16z:merkle-manufactory-inc",
-  "a16z_company_id": null,
+  "a16z_company_id": "37662",
   "name": "Merkle Manufactory, Inc.",
   "slug": "merkle-manufactory-inc",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Farcaster is building a protocol for decentralized social media applications. Farcaster is a social network that helps coders, fitness enthusiasts, and meme makers find people based on their interests.",
+  "website": "https://farcaster.xyz",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

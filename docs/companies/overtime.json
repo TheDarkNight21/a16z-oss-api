@@ -1,21 +1,26 @@
 {
   "id": "a16z:overtime",
-  "a16z_company_id": null,
+  "a16z_company_id": "371675",
   "name": "Overtime",
   "slug": "overtime",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Overtime is a sports network for the next generation of fans. We use tech, new platforms, and new formats to drive 75 million minutes of watch time each month. Based in NYC, Overtime is funded by top VC firms like Andreessen Horowitz and Greycroft Ventures as well as industry leaders like Kevin Durant and former NBA Commissioner David Stern.",
+  "website": "https://overtime.tv/",
+  "status": "active",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

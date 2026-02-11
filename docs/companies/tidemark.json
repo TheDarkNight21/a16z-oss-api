@@ -1,21 +1,26 @@
 {
   "id": "a16z:tidemark",
-  "a16z_company_id": null,
+  "a16z_company_id": "15627",
   "name": "Tidemark",
   "slug": "tidemark",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Tidemark Systems, Inc. offers enterprise performance management applications on a unified application platform built for the cloud. The company delivers real-time risk-adjusted metrics management; strategic and financial operational planning and forecasting; and profitability modeling applications. It serves Fortune 1000 companies. The company was formerly known as PROFERI, Inc. Tidemark Systems, Inc. was incorporated in 2009 and is based in Redwood City, California with an additional location in Jacksonville, Florida.",
+  "website": "https://insightsoftware.com/tidemark/",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

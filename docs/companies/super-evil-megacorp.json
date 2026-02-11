@@ -1,21 +1,25 @@
 {
   "id": "a16z:super-evil-megacorp",
-  "a16z_company_id": null,
+  "a16z_company_id": "371775",
   "name": "Super Evil Megacorp",
   "slug": "super-evil-megacorp",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Super Evil Megacorp is a multi-award winning creator of category-defining multiplayer experiences for the touchscreen generation, committed to building the very best shared gameplay moments through deep technical and design excellence. Super Evil is home to leading game industry talent previously at companies such as Riot Games, Blizzard, Rockstar Games and Insomniac. We believe that gamers on every device deserve to play together in beautiful, responsive and deep AAA experiences, whichever their native platform or control mechanism.\r\n\r\nBuilt on the proprietary cross-platform next-gen E.V.I.L. game engine, the first title, Vainglory, is the leading cross-platform MOBA, has been played by over 45 Million players and was an early mobile esports pioneer.",
+  "website": "https://www.superevilmegacorp.com/",
+  "status": "active",
+  "sectors": [
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

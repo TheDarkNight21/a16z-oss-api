@@ -1,21 +1,28 @@
 {
   "id": "a16z:material-security",
-  "a16z_company_id": null,
+  "a16z_company_id": "371119",
   "name": "Material Security",
   "slug": "material-security",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Organizations of all shapes and sizes trust Material to provide visibility, defense-in-depth, and security infrastructure for Microsoft 365 and Google Workspace. Material helps reduce the attack surface with powerful risk analytics and threat detection tools, and contain the blast radius of incidents in order to protect sensitive data and apps.",
+  "website": "https://material.security",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "growth",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

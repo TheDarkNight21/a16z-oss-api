@@ -1,21 +1,25 @@
 {
   "id": "a16z:local-motion",
-  "a16z_company_id": null,
+  "a16z_company_id": "371383",
   "name": "Local Motion",
   "slug": "local-motion",
-  "description": null,
-  "website": null,
+  "description": "Local Motion provides car sharing and mobility management technologies. Our technology powers smart fleets for corporations, campuses and government. Stop sharing the keys, start optimizing your assets!\r\n\r\nWe've developed a smalltelematics device that we install in any vehicle. Employees save time by switching from using keys to using their badge to access vehicles. We provide a web-based dashboard that helps manager's control the fleet and make hard decisions. Managers can monitor activity, lower maintenance costs and decide how to rightsize their fleet.",
+  "website": "https://www.getlocalmotion.com",
   "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

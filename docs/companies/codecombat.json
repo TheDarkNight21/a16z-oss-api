@@ -1,21 +1,27 @@
 {
   "id": "a16z:codecombat",
-  "a16z_company_id": null,
+  "a16z_company_id": "370855",
   "name": "CodeCombat",
   "slug": "codecombat",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "CodeCombat is a multiplayer programming game for learning how to code. CodeCombat creates game-based computer science programs that engage and captivate students as they learn to type real code. With thousands of schools and millions of students, CodeCombat is bringing K12 computer science education to everyone, regardless of gender, race, or background.",
+  "website": "https://codecombat.com",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:facebook",
-  "a16z_company_id": null,
+  "a16z_company_id": "15007",
   "name": "Facebook",
   "slug": "facebook",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Facebook operates as a social networking Website. It enables members to look up friend's Web pages, as well as share photos and videos. The company also provides messaging services among its users, as well as mobile applications for Java-powered feature phones. Facebook, Inc. has a strategic alliance with The Nielsen Company. The company was founded in 2004 and is based in Palo Alto, California with sales offices in Hong Kong and Singapore.",
+  "website": "https://facebook.com",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

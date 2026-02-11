@@ -1,21 +1,28 @@
 {
   "id": "a16z:lumos",
-  "a16z_company_id": null,
+  "a16z_company_id": "15883",
   "name": "Lumos",
   "slug": "lumos",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Lumos is the first AppStore for companies. Employees can receive access to the right apps and permissions for the right amount of time. Technology gives us superpowers. We believe equipping everyone with superpowers quickly and securely. That’s why we are building Lumos, the first AppStore for companies. Employees can go to their Company AppStore and receive the right access to the right apps and permissions for the right amount of time.",
+  "website": "https://lumos.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed",
+    "infra"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

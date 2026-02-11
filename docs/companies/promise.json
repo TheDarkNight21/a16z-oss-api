@@ -1,21 +1,23 @@
 {
   "id": "a16z:promise",
-  "a16z_company_id": null,
+  "a16z_company_id": "373152",
   "name": "Promise",
   "slug": "promise",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
+  "description": "Promise produces original films, series, and new formats with the world's best Gen AI artists and storytellers. Founded by a team of innovators and creatives, Promise is committed to harnessing technology to advance imagination.",
+  "website": "https://www.promise.ai/",
+  "status": "active",
+  "sectors": [
+    "games"
+  ],
   "stages": [],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

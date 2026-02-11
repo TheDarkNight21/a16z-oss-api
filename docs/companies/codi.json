@@ -1,21 +1,25 @@
 {
   "id": "a16z:codi",
-  "a16z_company_id": null,
+  "a16z_company_id": "372211",
   "name": "Codi",
   "slug": "codi",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "The commercial real estate industry is stuck in the past. Companies are shifting towards workplace flexibility, and long-term leases with an antiquated search process don’t fit their needs. Codi is solving this problem with private offices built for the way people work today. With easy move-ins, turnkey spaces, and no long-term leases, every company can find a space where their team can thrive.",
+  "website": "https://www.codi.com/",
+  "status": "active",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,26 @@
 {
   "id": "a16z:spoton",
-  "a16z_company_id": null,
+  "a16z_company_id": "15763",
   "name": "SpotOn",
   "slug": "spoton",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "SpotOn offers an end-to-end cloud-based tech stack for small business owners, including software to help process payments, market the business, pull reports, manage customer loyalty programs, manage customer reviews, and much more.",
+  "website": "https://spoton.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "growth"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

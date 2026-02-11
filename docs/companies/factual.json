@@ -1,21 +1,27 @@
 {
   "id": "a16z:factual",
-  "a16z_company_id": null,
+  "a16z_company_id": "371727",
   "name": "Factual",
   "slug": "factual",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Factual is a platform where anyone can share and mash open data on any subject. For example, you might find a directory of California restaurants, a database of endocrinologists, or a list of American Idol finalists. We provide smart tools to help the community build and maintain a trusted source of structured data. And this data can be used through widgets and APIs to help application developers and content publishers be more innovative and productive.",
+  "website": "https://www.factual.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

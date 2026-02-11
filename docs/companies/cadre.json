@@ -1,21 +1,25 @@
 {
   "id": "a16z:cadre",
-  "a16z_company_id": null,
+  "a16z_company_id": "371655",
   "name": "Cadre",
   "slug": "cadre",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Cadre is the first digital investment marketplace that provides access to institutional, quality alternative assets. Co-Founder and CEO Ryan Williams launched Cadre in 2014. Its technology-driven platform enables investors to benefit from greater transparency, actionable information, lower fees, and more flexibility. Collectively, the Cadre team brings decades of experience from leading investment and technology firms, and partners with top operators who have the experience and local market expertise relevant to each transaction.",
+  "website": "https://cadre.com/",
+  "status": "active",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

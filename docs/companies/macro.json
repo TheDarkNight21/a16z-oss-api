@@ -1,21 +1,27 @@
 {
   "id": "a16z:macro",
-  "a16z_company_id": null,
+  "a16z_company_id": "32499",
   "name": "Macro",
   "slug": "macro",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Macro is an information technology firm that provides SAAS solutions. Macro offers a document workspace driven by AI. They provide tools for word processors, PDF editors, comparison tools, automation tools, and more. They offer rapid context by allowing users to click on any specified term, section, chapter, clause, and more.",
+  "website": "https://macro.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed",
+    "ai"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

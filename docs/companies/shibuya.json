@@ -1,21 +1,25 @@
 {
   "id": "a16z:shibuya",
-  "a16z_company_id": null,
+  "a16z_company_id": "371443",
   "name": "Shibuya",
   "slug": "shibuya",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Shibuya is a web3 content studio and creator platform.\r\n\r\nUnlike traditional streaming platforms, Shibuya is built with decentralization as a priority and uses blockchain technology to securely distribute and monetize content. We want to build a range of tools and resources to help creators produce high-quality content, and provide them with direct access to their audiences.",
+  "website": "https://shibuya.xyz",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

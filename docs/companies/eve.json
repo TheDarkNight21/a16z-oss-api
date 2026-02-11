@@ -1,21 +1,26 @@
 {
   "id": "a16z:eve",
-  "a16z_company_id": null,
+  "a16z_company_id": "374024",
   "name": "Eve",
   "slug": "eve",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Eve is the Legal AI for Plaintiff Law Firms. Eve handles the heavy lifting of legal cases—from intake to resolution.",
+  "website": "https://eve.legal",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

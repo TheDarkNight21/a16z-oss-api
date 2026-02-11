@@ -1,21 +1,25 @@
 {
   "id": "a16z:fiftythree",
-  "a16z_company_id": null,
+  "a16z_company_id": "15549",
   "name": "FiftyThree",
   "slug": "fiftythree",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "FiftyThree is a provider of collaborative presentation tool used to build the essential tools for future creators. It also offers a productivity app for getting ideas down, and a collaboration app for teams to gather, organize, and share their ideas that help creators make their ideas better.",
+  "website": "https://www.fiftythree.com/",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

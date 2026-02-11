@@ -1,21 +1,23 @@
 {
   "id": "a16z:orchid-labs",
-  "a16z_company_id": null,
+  "a16z_company_id": "371140",
   "name": "Orchid Labs",
   "slug": "orchid-labs",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
+  "description": "Orchid Labs is an open-source project committed to ending surveillance and censorship on the internet. Orchid uses an overlay network built upon the existing internet, which is driven by a peer-to-peer tokenized bandwidth exchange, creating a more inclusive, liberated internet.",
+  "website": "https://www.orchid.com/",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
   "stages": [],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

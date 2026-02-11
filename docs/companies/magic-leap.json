@@ -1,21 +1,26 @@
 {
   "id": "a16z:magic-leap",
-  "a16z_company_id": null,
+  "a16z_company_id": "370957",
   "name": "Magic Leap",
   "slug": "magic-leap",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Magic Leap is combining that inherent visual ability with mobile computing— giving you visual output equivalent to when you step outside into the world, but powered by the mobile tech you carry around. Using our Dynamic Digitized Lightfield Signal, imagine being able to generate images indistinguishable from real objects and then being able to place those images seamlessly into the real world. We are visionaries, rocket scientists, artificial intelligence gurus, robotics wizards, visualization jedis, software ninjas, computing hobbits, film freaks, mathematical artists, psychedelic physicists, people people, business athletes, and music lovers. We are creating a whole new user experience that we call Cinematic Reality.",
+  "website": "https://www.magicleap.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

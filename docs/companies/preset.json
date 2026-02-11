@@ -1,21 +1,25 @@
 {
   "id": "a16z:preset",
-  "a16z_company_id": null,
+  "a16z_company_id": "370977",
   "name": "Preset",
   "slug": "preset",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Preset is an open analytics data platform, built on Apache Superset™, that makes any team productive with data. With an intuitive visual interface, Preset empowers users to explore and analyze their data. Flexible dashboarding capabilities and a deep set of visualization types make communicating and sharing data-driven insights simple and fast. Lightweight and cloud native, Preset supports the workflows of modern teams.",
+  "website": "https://preset.io/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

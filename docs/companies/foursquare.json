@@ -1,21 +1,26 @@
 {
   "id": "a16z:foursquare",
-  "a16z_company_id": null,
+  "a16z_company_id": "371298",
   "name": "Foursquare",
   "slug": "foursquare",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Foursquare is a location based social network that incorporates gaming elements. Foursquare is a location technology platform offering business solutions and consumer products through a deep understanding of location.\r\n\r\nAs a location intelligence company, Foursquare is comprised of two well-known consumer apps, Foursquare and Swarm, as well as thriving media and enterprise products. The platform leverages a deep understanding oflocation intelligence to unlock valuable insights about customers, enabling brands to understand and connect to targeted audiences as well as to measure foot traffic and advertising success.",
+  "website": "https://foursquare.com",
+  "status": "active",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

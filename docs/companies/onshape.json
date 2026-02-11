@@ -1,21 +1,25 @@
 {
   "id": "a16z:onshape",
-  "a16z_company_id": null,
+  "a16z_company_id": "372046",
   "name": "Onshape",
   "slug": "onshape",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Onshape is the only company in the world 100% focused on cloud and mobile CAD, offering the  first professional 3D CAD system that lets everyone on a design team work together using any web browser, phone, or tablet. Onshape was built from scratch for the way today's engineers, designers and manufacturers really work, giving them secure and simultaneous access to a single master version of their CAD data without the hassles of software licenses or copying files.\r\n\r\nBased in Cambridge, Massachusetts, Onshape includes key members of the original SolidWorks team plus elite engineers from the cloud, data security and mobile industries.",
+  "website": "https://www.onshape.com/en/",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

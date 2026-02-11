@@ -1,21 +1,27 @@
 {
   "id": "a16z:jopwell",
-  "a16z_company_id": null,
+  "a16z_company_id": "371248",
   "name": "Jopwell",
   "slug": "jopwell",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Jopwell is a recruitment and hiring platform dedicated to helping Blacks, Latinos / Hispanics, and Native Americans obtain internships, entry-level, and experienced-level job opportunities. Through our platform, our partner companies can directly connect and market to our demographic of users.",
+  "website": "https://www.jopwell.com/",
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "american-dynamism"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

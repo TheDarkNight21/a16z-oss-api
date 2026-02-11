@@ -1,21 +1,25 @@
 {
   "id": "a16z:accolade",
-  "a16z_company_id": null,
+  "a16z_company_id": "371459",
   "name": "Accolade",
   "slug": "accolade",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Accolade is an on-demand healthcare concierge for employers, health plans and health systems. Accolade's team of compassionate, trusted professionals is supported by breakthrough science and technologies to guide people through the healthcare system in a deeply personalized manner. Accolade customers experience industry-leading engagement levels, satisfaction scores unseen in health care, better health outcomes, and substantial medical cost savings of more than 10-percent.",
+  "website": "https://www.accolade.com/",
+  "status": "exited",
+  "sectors": [
+    "bio-health"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,29 @@
 {
   "id": "a16z:applied-intuition",
-  "a16z_company_id": null,
+  "a16z_company_id": "15173",
   "name": "Applied Intuition",
   "slug": "applied-intuition",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Applied Intuition is the vehicle intelligence company that accelerates the global adoption of safe, AI-driven machines. Founded in 2017, Applied Intuition delivers the Vehicle OS, Self-Driving System, and toolchain to help customers build intelligent vehicles and shorten time to market. 18 of the top 20 global automakers and major programs across the Department of Defense trust Applied Intuition's solutions to deliver vehicle intelligence. Applied Intuition services the automotive, defense, trucking, construction, mining, and agriculture industries and is headquartered in Mountain View, CA, with offices in Washington, D.C., San Diego, CA, Ft. Walton Beach, FL, Ann Arbor, MI, London, Stuttgart, Munich, Stockholm, Bangalore, Seoul, and Tokyo.",
+  "website": "https://appliedintuition.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "american-dynamism",
+    "growth",
+    "ai"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:hadrian",
-  "a16z_company_id": null,
+  "a16z_company_id": "371055",
   "name": "Hadrian",
   "slug": "hadrian",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Hadrian is a machine-parts startup that manufactures precision components for cutting-edge technology companies.  It builds autonomous, software-defined precision component factories that help its customers make rockets, satellites, jets, and eVTOLs 2x faster and cheaper.",
+  "website": "https://hadrian.co/",
+  "status": "active",
+  "sectors": [
+    "american-dynamism"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

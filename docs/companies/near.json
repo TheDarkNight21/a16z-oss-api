@@ -1,21 +1,25 @@
 {
   "id": "a16z:near",
-  "a16z_company_id": null,
+  "a16z_company_id": "15911",
   "name": "NEAR",
   "slug": "near",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "NEAR Protocol is a community-operated cloud which forms the backbone infrastructure of the Open Web stack and supports an entirely wave of new applications that will be built using open technologies.  This is the same scope of impact achieved by early Internet protocols like TCP/IP or cloud-based hosting services like AWS.\r\n\r\nNEAR will succeed where prior generations of platforms like Ethereum have not because the technology is finally at a place which allows the level of usability necessary to achieve mainstream adoption and the at-scale performance necessary to support it. \r\n\r\nLet's be clear: NEAR isn't a side chain, an ERC20 token or a highly specialized task-specific blockchain, it is nothing less than a brand new and fundamentally reimagined layer 1 protocol designed to independently power the base of the Open Web stack.  Unlike other projects in the space which are glorified research projects or hand-wavy marketing pitches, NEAR is being built by a global collective of world champion competitive programmers and successful entrepreneurs who know how to take technology to market.\r\n\r\nWe're looking for only the very best, world-class engineers and startup veterans to join this journey.  Do you have what it takes to change the world?",
+  "website": "https://near.org",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

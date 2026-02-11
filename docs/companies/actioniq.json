@@ -1,21 +1,27 @@
 {
   "id": "a16z:actioniq",
-  "a16z_company_id": null,
+  "a16z_company_id": "15331",
   "name": "ActionIQ",
   "slug": "actioniq",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "ActionIQ helps companies like Verizon Wireless, Michael Kors, Weight Watchers and HBC/Saks 5th Ave leverage 100x more customer data to develop unique, personalized experiences. As customer data become one of the most valuable assets Enterprises can use to differentiate and compete, most CMOs are frustrated by how long it takes to leverage that asset to develop real-world customer interactions and experiences. ActionIQ can deliver value in months (versus years) and it can make Marketers significantly more self-sufficient and less dependent on IT for their success.",
+  "website": "https://www.actioniq.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

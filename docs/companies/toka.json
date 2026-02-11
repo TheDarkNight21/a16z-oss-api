@@ -1,21 +1,25 @@
 {
   "id": "a16z:toka",
-  "a16z_company_id": null,
+  "a16z_company_id": "370811",
   "name": "Toka",
   "slug": "toka",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Toka is a cyber capacity-building company that helps design, build, and manage a tailored ecosystem of cyber capabilities and software products for governmental, law enforcement, and security agencies.\r\nFounded by leaders with unparalleled experience in the political, military, and corporate worlds, Toka enables agencies tasked with keeping the digital landscape, their citizens and government institutions secure. Working across the strategic, operational and tactical levels, with a deep hands-on technical experience, Toka can address the full breadth of its clients' cybersecurity needs, including the development of new technologies to meet customers' requirements.",
+  "website": "https://tokagroup.com",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

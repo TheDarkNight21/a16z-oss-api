@@ -1,21 +1,25 @@
 {
   "id": "a16z:everyrealm",
-  "a16z_company_id": null,
+  "a16z_company_id": "37305",
   "name": "Everyrealm",
   "slug": "everyrealm",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Develops and invests in businesses related to virtual worlds and social video gaming—an ecosystem also known as immersive media. Everyrealm is a digital real estate vehicle that invests in virtual worlds through NFTs. They invest in, manage, and develop assets including NFTs, virtual real estate, metaverse platforms, gaming, and infrastructure.",
+  "website": "https://everyrealm.com",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

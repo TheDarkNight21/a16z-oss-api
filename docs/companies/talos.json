@@ -1,21 +1,25 @@
 {
   "id": "a16z:talos",
-  "a16z_company_id": null,
+  "a16z_company_id": "15905",
   "name": "Talos",
   "slug": "talos",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Talos Trading is an institutional technology infrastructure provider that connects all crypto ecosystem participants to support a full trading lifecycle. Based in New York, NY.",
+  "website": "https://talos.com",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

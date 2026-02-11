@@ -1,21 +1,26 @@
 {
   "id": "a16z:tapi",
-  "a16z_company_id": null,
+  "a16z_company_id": "368794",
   "name": "Tapi",
   "slug": "tapi",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Tapi is a Latin American paytech founded in 2022 by Argentine entrepreneurs. The company currently operates in Argentina, Mexico, Chile, Colombia, and Peru.\r\nTapi's innovative infrastructure quickly made it the largest payment network in the region, offering banks and fintechs the ability to process recurring service payments, cash in and out, airtime top-ups, and access gift cards of different categories through a single integration and within just a few weeks, in a simple, agile, secure, and scalable manner.",
+  "website": "https://tapi.la/",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

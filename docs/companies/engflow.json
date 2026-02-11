@@ -1,21 +1,28 @@
 {
   "id": "a16z:engflow",
-  "a16z_company_id": null,
+  "a16z_company_id": "371843",
   "name": "Engflow",
   "slug": "engflow",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "EngFlow is a build acceleration startup that builds source code and runs tests on their local machines. It optimizes software development by providing fast builds and tests, making build results more accessible, and improving core Bazel to meet requirements. With support for Bazel, Chromium, and the Android Platform, it enables its enterprise customers to build and test their source code more efficiently",
+  "website": "https://www.engflow.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed",
+    "infra"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

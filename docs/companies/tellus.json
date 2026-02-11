@@ -1,21 +1,26 @@
 {
   "id": "a16z:tellus",
-  "a16z_company_id": null,
+  "a16z_company_id": "370837",
   "name": "Tellus",
   "slug": "tellus",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Tellus is a financial technology platform on a mission to help users build wealth through our line of passive income products. They offer a variety of high-yield cash accounts that pay up to 13x* more interest than a traditional savings account all while keeping you completely out of the stock or crypto markets.",
+  "website": "https://tellusapp.com",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

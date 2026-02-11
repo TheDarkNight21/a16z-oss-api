@@ -1,21 +1,27 @@
 {
   "id": "a16z:loom",
-  "a16z_company_id": null,
+  "a16z_company_id": "371715",
   "name": "Loom",
   "slug": "loom",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Loom is a video communication platform for asynchronous work. The tool makes it easy to record videos of your screen and camera and instantly share them.",
+  "website": "https://loom.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "growth",
+    "ai"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

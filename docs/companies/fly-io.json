@@ -1,21 +1,27 @@
 {
   "id": "a16z:fly-io",
-  "a16z_company_id": null,
+  "a16z_company_id": "371318",
   "name": "Fly.io",
   "slug": "fly-io",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Fly.io offers an Application Delivery Network (ADN) intended to help website owners get connected with their customers. The company's application delivery network uses a network of servers to accept visitor traffic, run middleware on requests, then route them to backend applications, enabling website owners to direct their visitors to theirrespective sites securely and in a few clicks.",
+  "website": "https://fly.io/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

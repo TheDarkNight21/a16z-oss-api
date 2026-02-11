@@ -1,21 +1,25 @@
 {
   "id": "a16z:rewatch",
-  "a16z_company_id": null,
+  "a16z_company_id": "15821",
   "name": "Rewatch",
   "slug": "rewatch",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Using advanced AI, Rewatch automatically records, transcribes, summarizes, and shares meetings. With an intuitive video hub for ongoing collaboration or asynchronous follow-up videos, Rewatch serves as the central system of record for all knowledge in forward-thinking organizations.",
+  "website": "https://rewatch.com",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:journera",
-  "a16z_company_id": null,
+  "a16z_company_id": "371190",
   "name": "Journera",
   "slug": "journera",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Journera is a technology company developing the first software platform for travel-related companies to create more seamless travel journeys. Through our secure GXR (Global Experience Record), which creates a unified view of the traveler's journey in real-time, and our unique publish-subscribe and data permissions architecture, the Journera platform is enabling travel-related companies and application developers to create new travel experiences, more quickly implement and improve partnerships, and better govern their data.",
+  "website": "https://journera.com",
+  "status": "active",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

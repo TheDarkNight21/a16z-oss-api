@@ -1,21 +1,27 @@
 {
   "id": "a16z:ccp-games",
-  "a16z_company_id": null,
+  "a16z_company_id": "36684",
   "name": "CCP Games",
   "slug": "ccp-games",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "CCP Games is an independent developer of massively multiplayer games (MMO). They are creators of boundless and fascinating universes. Their products feature EVE Online, Project M5, and FPS projects.",
+  "website": "https://eveonline.com",
+  "status": "active",
+  "sectors": [
+    "seed",
+    "games",
+    "crypto"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

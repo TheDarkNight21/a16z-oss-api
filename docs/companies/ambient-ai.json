@@ -1,21 +1,30 @@
 {
   "id": "a16z:ambient-ai",
-  "a16z_company_id": null,
+  "a16z_company_id": "15077",
   "name": "Ambient.ai",
   "slug": "ambient-ai",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Through AI and computer vision intelligence, Ambient.ai is transforming enterprise security operations to prevent security incidents before they happen. The platform delivers continuous physical security monitoring and automates the immediate dispatch of human resources.",
+  "website": "https://ambient.ai/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "american-dynamism",
+    "growth",
+    "clf",
+    "ai",
+    "infra"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

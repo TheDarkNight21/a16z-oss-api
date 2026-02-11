@@ -1,21 +1,23 @@
 {
   "id": "a16z:aminochain",
-  "a16z_company_id": null,
+  "a16z_company_id": "373108",
   "name": "AminoChain",
   "slug": "aminochain",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
+  "description": "Biosample and research data marketplace connecting biobanks and clinical sites with biopharma companies and CROs",
+  "website": "https://aminochain.io",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
   "stages": [],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

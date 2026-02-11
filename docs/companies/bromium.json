@@ -1,21 +1,26 @@
 {
   "id": "a16z:bromium",
-  "a16z_company_id": null,
+  "a16z_company_id": "15587",
   "name": "Bromium",
   "slug": "bromium",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "A new desktop virtualization solution that runs on existing devices by creating micro-VMs; every time the user initiates a new transaction, they create a thin in-memory clone of a VM state; everything is isolated in its in full-OS container; does not require the install of a native hypervisor on top of the core OS; uVMs are designed to be ephemeral + garbage collected (although you can save a state if you like); solution is completely secure because all transactions run in a uVM and all read/writes to VM0 (your pristine OS state) need to be approved by policy or the user.",
+  "website": "https://www.bromium.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

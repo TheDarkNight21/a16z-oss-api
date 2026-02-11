@@ -1,21 +1,25 @@
 {
   "id": "a16z:end-game",
-  "a16z_company_id": null,
+  "a16z_company_id": "371291",
   "name": "End Game",
   "slug": "end-game",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "End Game Interactive is a game development company that built third-party apps for games such as Pokévision. End Game Interactive is a developer of ZombsRoyale.io, a real-time multiplayer shooter that runs in browsers across numerous platforms.",
+  "website": "https://end.gg",
+  "status": "active",
+  "sectors": [
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

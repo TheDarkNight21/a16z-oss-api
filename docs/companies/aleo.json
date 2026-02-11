@@ -1,21 +1,25 @@
 {
   "id": "a16z:aleo",
-  "a16z_company_id": null,
+  "a16z_company_id": "15825",
   "name": "Aleo",
   "slug": "aleo",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Aleo develops a private application building platform designed to facilitate absolute privacy on blockchains. Its platform offer toolkits for Windows, Linux, and macOS which allow users to write, deploy and share applications easily with a package manager, enabling them to compile and test codes without compromising privacy.",
+  "website": "https://provable.com",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

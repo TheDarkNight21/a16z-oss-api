@@ -1,21 +1,26 @@
 {
   "id": "a16z:tasty-labs",
-  "a16z_company_id": null,
+  "a16z_company_id": "371310",
   "name": "Tasty Labs",
   "slug": "tasty-labs",
-  "description": null,
+  "description": "Tasty Labs is a software applications business that connects people via social software.",
   "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,26 @@
 {
   "id": "a16z:bracket-computing",
-  "a16z_company_id": null,
+  "a16z_company_id": "371891",
   "name": "Bracket Computing",
   "slug": "bracket-computing",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Allows companies to have their own private cloud and the security/performance that comes with it, hosted within a public cloud environment.\r\n\r\nAt Bracket, we are re-imagining enterprise computing—not as an incremental extension of what is today, but as radical innovation moving beyond what currently is.",
+  "website": "https://www.brkt.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

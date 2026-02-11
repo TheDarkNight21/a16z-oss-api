@@ -1,21 +1,26 @@
 {
   "id": "a16z:clearstory-data",
-  "a16z_company_id": null,
+  "a16z_company_id": "370903",
   "name": "Clearstory Data",
   "slug": "clearstory-data",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "ClearStory Data provides solutions enabling business users to discover, analyze and consume data at scale from different data sources.\r\n\r\nClearStory Data's solution offers a new way for business users to easily discover, analyze and consume data at scale from corporate, web and premium data sources for combined and up-to-date insights. Data sources include relational databases, Hadoop, Web and social application interfaces, and third-party data providers. ClearStory Data'splatform modernizes data analysis by introducing a new user model for big data analysis. The platform simplifies access to disparate data sources, automatically manages data harmonization, and enables interactive analysis at scale. With ClearStory's solution, organizations can easily converge data from corporate and third-party sources to make business decisions faster and across distributed teams in ways never before possible.",
+  "website": "https://www.clearstorydata.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

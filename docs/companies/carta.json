@@ -1,21 +1,27 @@
 {
   "id": "a16z:carta",
-  "a16z_company_id": null,
+  "a16z_company_id": "371591",
   "name": "Carta",
   "slug": "carta",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Carta is the leading provider of equity management and company-building solutions that underpin the multi trillion-dollar private market ecosystem.",
+  "website": "https://carta.com",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "growth",
+    "clf"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:supermove",
-  "a16z_company_id": null,
+  "a16z_company_id": "14883",
   "name": "Supermove",
   "slug": "supermove",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Supermove is a moving company software that modernizes moving businesses. They allow users to sell more moves, manage jobs and people, and stop wasting time on paperwork, spending less time in pushing paper and more time in moving customers. Their cloud-based software provides access to all information at all times, eliminates paperwork in the field.",
+  "website": "https://supermove.com",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

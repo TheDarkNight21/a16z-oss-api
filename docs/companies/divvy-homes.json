@@ -1,21 +1,27 @@
 {
   "id": "a16z:divvy-homes",
-  "a16z_company_id": null,
+  "a16z_company_id": "15105",
   "name": "Divvy Homes",
   "slug": "divvy-homes",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Divvy Homes is a tech-enabled real estate platform that facilitates rent-to-own home purchases. Its platform selects any home on the market and buys it for the renter who in turn makes down payments and gets a jump start on owning a house, enabling customers to close the housing affordability gap.",
+  "website": "https://divvyhomes.com",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "fintech"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

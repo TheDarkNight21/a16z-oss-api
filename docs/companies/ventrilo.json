@@ -1,21 +1,28 @@
 {
   "id": "a16z:ventrilo",
-  "a16z_company_id": null,
+  "a16z_company_id": "371174",
   "name": "Ventrilo",
   "slug": "ventrilo",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Any company that has a relatively complex software application that they've built ultimately gets to a point where releasing new features or capabilities becomes harder as ensuring quality becomes more complex. Ventrilo helps customers understand what workflows exist in their applications so they can test them and improve them more quickly.",
+  "website": "https://ventrilo.ai/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed",
+    "ai",
+    "infra"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

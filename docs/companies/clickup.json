@@ -1,21 +1,26 @@
 {
   "id": "a16z:clickup",
-  "a16z_company_id": null,
+  "a16z_company_id": "372290",
   "name": "ClickUp",
   "slug": "clickup",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "ClickUp is one app to replace them all: the modern bundle of productivity and collaboration applications, all delivered in a single, unified platform.",
+  "website": "https://clickup.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "growth"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

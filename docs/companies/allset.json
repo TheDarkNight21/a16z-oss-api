@@ -1,21 +1,28 @@
 {
   "id": "a16z:allset",
-  "a16z_company_id": null,
+  "a16z_company_id": "371687",
   "name": "Allset",
   "slug": "allset",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Allset is a marketplace connecting restaurants and local diners. It provides restaurants with online ordering and contactless dining solutions with no high fees.\r\n\r\nCustomers use Allset for fast and easy pickup, discovery of local eats and coffee shops, and saving money. For local companies, we have Allset for Teams to provide employees with company-paid meals at restaurants.",
+  "website": "https://allsetnow.com",
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

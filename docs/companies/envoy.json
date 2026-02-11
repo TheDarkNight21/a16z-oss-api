@@ -1,21 +1,26 @@
 {
   "id": "a16z:envoy",
-  "a16z_company_id": null,
+  "a16z_company_id": "15321",
   "name": "Envoy",
   "slug": "envoy",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Envoy is transforming modern workplaces for flexible work to bring people together so they can connect, collaborate, and thrive. Envoy’s workplace platform has redefined how companies welcome visitors, improve the employee experience, book desks and conference rooms, and manage deliveries in 16,000 locations around the globe by designing products for a flexible workplace experience. Companies like Slack, Pinterest, and Warby Parker rely on Envoy to create an unrivaled first impression and keep their offices secure and compliant.\r\n\r\nWith more than 150,000 new sign-ins every day, Envoy Visitors creates a warm welcome for guests while safeguarding people, property, and ideas. Envoy helps employees collaborate with teammates by coordinating on-site schedules. Envoy Desks gives employees the flexibility to reserve a desk for the days they are in the office. Envoy Rooms provides a simple solution to book meeting rooms and free up unused space. Envoy Deliveries ensures packages reach their recipients without mailroom pile-ups. Envoy Connect combines hospitality with security to welcome visitors in multi-tenant buildings. For more information, please visit envoy.com.",
+  "website": "https://envoy.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

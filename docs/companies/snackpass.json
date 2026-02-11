@@ -1,21 +1,25 @@
 {
   "id": "a16z:snackpass",
-  "a16z_company_id": null,
+  "a16z_company_id": "370871",
   "name": "Snackpass",
   "slug": "snackpass",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "The Snackpass mission is to make restaurant operators successful and guests happy. Their vision is to build the best all-in-one platform for quick-serve restaurants. \r\n\r\nSnackpass is mobile order meets social. We focus on mobile order pickup, not delivery. Not only is the takeout market 5x greater than delivery, but usage is much greater: our users Snackpass breakfast, lunch, and dinner on a daily basis. On Snackpass, you can also unlock discounts with friends, send gifts, and collect points.",
+  "website": "https://snackpass.co",
+  "status": "active",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

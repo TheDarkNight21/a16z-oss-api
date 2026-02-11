@@ -1,21 +1,26 @@
 {
   "id": "a16z:reface",
-  "a16z_company_id": null,
+  "a16z_company_id": "372167",
   "name": "Reface",
   "slug": "reface",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Reface is a mobile app that allows users to replace faces in videos and photos, voice-over content, and generate AI portraits from multiple selfies. Within 2 years after its launch, Reface has been downloaded 250 million times.",
+  "website": "https://reface.ai/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "ai"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

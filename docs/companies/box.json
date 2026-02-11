@@ -1,21 +1,25 @@
 {
   "id": "a16z:box",
-  "a16z_company_id": null,
+  "a16z_company_id": "371567",
   "name": "Box",
   "slug": "box",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Simple sharing\r\nBox.net's online file storage makes it easy to securely share content as a link or a shared folder with anyone—inside or outside your company.\r\nFull-featured collaboration\r\nCreate an online workspace where you can share project files, add comments, assign tasks, start discussions or create new content\r\nPowerful discovery and access\r\nDiscover new content by viewing all the latest Box activity within your company or by searching the full text of all shared files with no extra investment",
+  "website": "https://box.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,26 @@
 {
   "id": "a16z:tenfold",
-  "a16z_company_id": null,
+  "a16z_company_id": "370885",
   "name": "Tenfold",
   "slug": "tenfold",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Tenfold automates the capture of interaction data into a company's disperse systems of record and unifies that data across systems of record to provide complete and accurate context before, during and after a customer or prospect interaction. By doing so, Tenfold provides companies with visibility into leading activity-based indicators across the entire customer facing organization, improves operational efficiency by eliminating manual data entry and empowers employees to have more efficient and effective communications by ensuring they have a 360 degree view of the relationship with a prospect or customer before they even answer the phone.",
+  "website": "https://www.tenfold.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

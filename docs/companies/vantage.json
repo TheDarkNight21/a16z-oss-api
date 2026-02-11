@@ -1,21 +1,28 @@
 {
   "id": "a16z:vantage",
-  "a16z_company_id": null,
+  "a16z_company_id": "15781",
   "name": "Vantage",
   "slug": "vantage",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Vantage is a service that helps businesses manage and optimize their cloud infrastructure costs. Vantage's mission is to build a suite of tools that make it easy for engineering, leadership, and finance to analyze, collaborate on and optimize their cloud infrastructure costs. The platform currently supports AWS, Azure, Google Cloud, Databricks, Snowflake, New Relic, Datadog, Fastly, MongoDB, and Kubernetes.",
+  "website": "https://www.vantage.sh/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed",
+    "infra"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

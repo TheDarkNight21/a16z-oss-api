@@ -1,21 +1,27 @@
 {
   "id": "a16z:pinecone",
-  "a16z_company_id": null,
+  "a16z_company_id": "324141",
   "name": "Pinecone",
   "slug": "pinecone",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Pinecone develops a vector database that makes it easy to connect company data with generative AI models. It combines vector search libraries, features such as filtering, and distribution infrastructure to provide reliability at any scale.",
+  "website": "https://www.pinecone.io/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "ai",
+    "infra"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

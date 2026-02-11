@@ -1,5 +1,6 @@
 {
   "url": "https://a16z.com/portfolio/",
-  "companies_extracted": 0,
-  "note": "Portfolio enrichment not yet implemented"
+  "companies_extracted": 808,
+  "matched": 648,
+  "match_rate": 80.2
 }

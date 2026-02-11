@@ -1,21 +1,25 @@
 {
   "id": "a16z:synapse",
-  "a16z_company_id": null,
+  "a16z_company_id": "14969",
   "name": "Synapse",
   "slug": "synapse",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "SynapseFI is a banking platform that enables companies to provide financial products to their customers for a fraction of the cost of traditional banks. The company provides payment, deposit, lending. and investment products as APIs to FinTech companies who build and launch their financial innovations on top of their banking infrastructure.",
+  "website": "https://synapsefi.com/",
+  "status": "active",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

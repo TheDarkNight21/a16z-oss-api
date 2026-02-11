@@ -1,21 +1,25 @@
 {
   "id": "a16z:bereal",
-  "a16z_company_id": null,
+  "a16z_company_id": "371657",
   "name": "BeReal",
   "slug": "bereal",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "BeReal is building the first social network where people spontaneously share their real life. No filters. No followers. Just friends, sharing with each other. On BeReal, you discover your friends' real lives and get closer to them!",
+  "website": "https://bereal.com",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

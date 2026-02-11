@@ -1,21 +1,23 @@
 {
   "id": "a16z:authy",
-  "a16z_company_id": null,
+  "a16z_company_id": "370945",
   "name": "Authy",
   "slug": "authy",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
+  "description": "Authy provides an API for developers to customize the user experience when adding two-factor authentication and multiple add-ons for apps.\r\n\r\nAuthy provides a two-factor authentication smartphone application for consumers, a 2FA Rest API for developers, and an authentication platform for enterprises. It enables every user, group, and organization to customize their settings and configure security rules through its platform. Authy achieves and maintains compliance with PCI, HIPAA, FIPS140, and other regulatory mandates worldwide. It offers protection for various apps, including Facebook, Gmail, Dropbox, or any account that supports Google Authenticator. Authy’s login verification options include a unique verification code, a text message, and a singular answer question that appears only on its users’ mobile device.",
+  "website": "https://authy.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
   "stages": [],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

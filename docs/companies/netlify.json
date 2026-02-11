@@ -1,21 +1,27 @@
 {
   "id": "a16z:netlify",
-  "a16z_company_id": null,
+  "a16z_company_id": "371603",
   "name": "Netlify",
   "slug": "netlify",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Netlify is enabling a new de-coupled web architecture via unique infrastructure that provides consolidated workflows for developers and business a like. \nAll the different services needed to create global high-performant web projects, are integrated into a single automated platform.",
+  "website": "https://netlify.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,28 @@
 {
   "id": "a16z:orbit",
-  "a16z_company_id": null,
+  "a16z_company_id": "372120",
   "name": "Orbit",
   "slug": "orbit",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Community experience platform that helps open-source and developer-focused companies grow and manage their developer communities.",
+  "website": "https://orbit.love/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed",
+    "infra"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

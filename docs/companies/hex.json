@@ -1,21 +1,28 @@
 {
   "id": "a16z:hex",
-  "a16z_company_id": null,
+  "a16z_company_id": "14869",
   "name": "Hex",
   "slug": "hex",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Hex is a platform for collaborative analytics and data science. The technology brings SQL, Python, R, and no-code workflows together in powerful notebooks that allow users to do exploratory analysis with minimal friction and publish projects as interactive data apps that anyone in an organization can use—from data scientists and data analysts to the C-suite.",
+  "website": "https://hex.tech/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "growth",
+    "ai",
+    "infra"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

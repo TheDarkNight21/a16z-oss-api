@@ -1,21 +1,26 @@
 {
   "id": "a16z:optimizely",
-  "a16z_company_id": null,
+  "a16z_company_id": "370831",
   "name": "Optimizely",
   "slug": "optimizely",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Optimizely is a digital experience platform for unlocking digital potential, content, commerce, and optimization. Optimizely develops web content management and digital experience software. Their application combines content, commerce, multi-channel marketing, and predictive analytics in a single platform to work full circle for businesses, providing capabilities such as intelligent optimization, lead generation, web product recommendations, conversion, and repeat business with unprecedented ease of use for clients.",
+  "website": "https://www.optimizely.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,25 @@
 {
   "id": "a16z:morta-security",
-  "a16z_company_id": null,
+  "a16z_company_id": "371791",
   "name": "Morta Security",
   "slug": "morta-security",
-  "description": null,
+  "description": "Morta Security is developing a new paradigm to counter advanced cyber threats. Traditional layered network defense is broken and Morta is poised to turn the tables on advanced attackers. Led by executives and engineers from the National Security Agency, Morta's technology uniquely combats advanced malware. Morta mixes start-up innovation with military-grade technology to solve the world's toughest network security challenges.",
   "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

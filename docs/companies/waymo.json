@@ -1,21 +1,27 @@
 {
   "id": "a16z:waymo",
-  "a16z_company_id": null,
+  "a16z_company_id": "15219",
   "name": "Waymo",
   "slug": "waymo",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Waymo is an autonomous driving technology company with a mission to make it safe and easy for people and things to get where they’re going.",
+  "website": "https://waymo.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "growth",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

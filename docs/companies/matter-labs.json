@@ -1,21 +1,26 @@
 {
   "id": "a16z:matter-labs",
-  "a16z_company_id": null,
+  "a16z_company_id": "14933",
   "name": "Matter Labs",
   "slug": "matter-labs",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Matter Labs is scaling Ethereum with zero-knowledge proofs to accelerate public blockchain adoption. The company started out of scientific curiosity, the joy of engineering, and a deep conviction, the most impactful way to improve the world today is to provide an open and free alternative to its existing, deeply flawed financial system.",
+  "website": "https://matter-labs.io",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

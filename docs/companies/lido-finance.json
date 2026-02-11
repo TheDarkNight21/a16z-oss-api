@@ -1,21 +1,23 @@
 {
   "id": "a16z:lido-finance",
-  "a16z_company_id": null,
+  "a16z_company_id": "370997",
   "name": "Lido Finance",
   "slug": "lido-finance",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
+  "description": "Lido is a provider of liquid staking solutions for staked assets and Ethereum. The platform lets users stake their assets for daily staking rewards. Users can stake any amount of tokens - no minimum. It issues synthetic native tokens for every Ethereum staked via its protocol, thereby enabling users to stake Ethereum and receive an asset of equalvalue which can be used in various DeFi applications to earn yield.",
+  "website": "https://lido.fi/",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
   "stages": [],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

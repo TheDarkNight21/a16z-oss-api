@@ -1,21 +1,26 @@
 {
   "id": "a16z:bonfire-studios",
-  "a16z_company_id": null,
+  "a16z_company_id": "371611",
   "name": "Bonfire Studios",
   "slug": "bonfire-studios",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Bonfire Studios is an independent game studio located in sunny Irvine, California. Our purpose is to build friendships by creating legendary game experiences that bring players closer together, united in a sense of adventure, exploration and fellowship. At Bonfire being the best means being driven to excel, not as individuals but as a team. We believe that skill and experience are only part of the puzzle—an adventurous spirit, a commitment to excellence and a passion for iteration are essential.",
+  "website": "http://www.bonfirestudios.com/",
+  "status": "active",
+  "sectors": [
+    "growth",
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,27 @@
 {
   "id": "a16z:odyssey-interactive",
-  "a16z_company_id": null,
+  "a16z_company_id": "371411",
   "name": "Odyssey Interactive",
   "slug": "odyssey-interactive",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Odyssey Interactive is a Canadian Game Development studio formed around the mantra of building \"Games you Live\". Odyssey believes that the best games are the ones you think about long after you put them down, that help you feel like you're a part of something bigger than yourself, and that you believe you can invest in for years to come.",
+  "website": "http://OdysseyInteractive.gg",
+  "status": "active",
+  "sectors": [
+    "seed",
+    "games"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

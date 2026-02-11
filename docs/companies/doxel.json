@@ -1,21 +1,27 @@
 {
   "id": "a16z:doxel",
-  "a16z_company_id": null,
+  "a16z_company_id": "371432",
   "name": "Doxel",
   "slug": "doxel",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "<b>What we do</b><br><br>\n\nHuman error in construction costs the world about $3 Trillion/yr and is largely responsible for over 50% of construction projects running over schedule. <br><br>\n\nUsing 3D computer vision and deep learning, our software turns off the shelf sensors into error detection tools for construction projects - giving project managers superhuman powers to spot critical issues that they otherwise couldn't. <br><br>\n\nThis significantly reduces costs, and more importantly reduces the risk of a project running over schedule.<br><br>\n\n<b>Who we are</b> <br><br>\n\nWe're a team of geeks from Stanford and UMich who are passionate about applying computer vision to dusty industries that have been neglected by technology.",
+  "website": "https://www.doxel.ai/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

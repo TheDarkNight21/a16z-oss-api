@@ -1,21 +1,25 @@
 {
   "id": "a16z:swell",
-  "a16z_company_id": null,
+  "a16z_company_id": "371962",
   "name": "Swell",
   "slug": "swell",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "A Google News/Flipboard-type app for audio on your mobile device. The idea is there are lots of times when you can only listen vs. read (running, driving, cooking, walking). Concept.io is recreating digital radio (non-music), making it personalized and interactive. A sample stream could include: machine reading of tweets, updates on sports games for teams you follow, reminders of TV shows you like, warning of nearby accidents, etc.",
+  "website": "https://swell.life",
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

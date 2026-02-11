@@ -1,21 +1,26 @@
 {
   "id": "a16z:signalfx",
-  "a16z_company_id": null,
+  "a16z_company_id": "372175",
   "name": "SignalFx",
   "slug": "signalfx",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "SignalFx is a cloud monitoring platform for infrastructure, microservices, and applications. The platform discovers and collects metrics across every component in your cloud environment, replacing traditional point tools and providing real-time predictive analytics. The massively scalable SignalFx architecture is optimized for cloud infrastructureand microservices-based applications and provides powerful visualization, proactive alerting, and collaborative triage capabilities for organizations of all sizes.",
+  "website": "https://www.signalfx.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

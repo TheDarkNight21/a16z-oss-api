@@ -1,21 +1,26 @@
 {
   "id": "a16z:seedfi",
-  "a16z_company_id": null,
+  "a16z_company_id": "14953",
   "name": "SeedFi",
   "slug": "seedfi",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "SeedFi is a financial health startup that provides financial products to underserved Americans. SeedFi is building a new generation of financial products for the 100MM Americans living paycheck to paycheck. Their customers include the most vulnerable members of society and their products have a tangible impact on their financial health, providing lower-cost access to capital and the opportunity to build credit and start saving.",
+  "website": "https://seedfi.com",
+  "status": "exited",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

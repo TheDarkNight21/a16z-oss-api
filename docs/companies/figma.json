@@ -1,21 +1,27 @@
 {
   "id": "a16z:figma",
-  "a16z_company_id": null,
+  "a16z_company_id": "14997",
   "name": "Figma",
   "slug": "figma",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Figma is a multiplayer design system for collaboration: designers, developers, marketing teams and end users work in continuous fashion in Figma, drawing mockups, building prototypes, and testing with real users through several iterations.",
+  "website": "https://figma.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "growth",
+    "clf"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

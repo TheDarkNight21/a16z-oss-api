@@ -1,21 +1,26 @@
 {
   "id": "a16z:teleport",
-  "a16z_company_id": null,
+  "a16z_company_id": "371152",
   "name": "Teleport",
   "slug": "teleport",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Teleport is creating a world where free people move around and every single government will be competing for every single citizen.\r\nAs a start we are building software for startup people to find the best place where to live and work. Startups work increasingly in globally distributed teams, but picking the right place to be at any given time is still a taunting task, depending on\r\n1) who you are (a founder looking to hire or an employee looking for a job; developer, designer or marketeer),\r\n2) what you need to accomplish (be closer to your customers or work remotely, reduce cost and extend your runway, find like-minded people to build with, a tax and regulatory environment with least friction) and\r\n3) what qualities of life make you happy and productive.\r\nWe cut the painful research process to find your next place from two weeks to two minutes, and once you know where you need to be our software will help you get there smoothly, too.\r\nOur first released product optimizes your location in the San Francisco Bay Area and we are expanding to a long list of startup hubs around the world.",
+  "website": "https://teleport.org",
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

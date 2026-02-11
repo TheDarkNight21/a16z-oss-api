@@ -1,21 +1,27 @@
 {
   "id": "a16z:loft",
-  "a16z_company_id": null,
+  "a16z_company_id": "371803",
   "name": "Loft",
   "slug": "loft",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Loft is a transactional marketplace for residential real estate that helps manage the home buying and selling process.\r\n\r\nLoft is Brazil’s first transactional marketplace for residential real estate, facilitating the purchase and sale of properties on behalf of individuals, brokers, and two publicly listedREITs managed by the company. By leveraging proprietary transaction data and an end-to-end digital workflow, Loft is bringing the Brazilian home-buying experience into the e-commerce age while integrating a multitude of adjacent service offerings.",
+  "website": "https://loft.com.br",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "fintech"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

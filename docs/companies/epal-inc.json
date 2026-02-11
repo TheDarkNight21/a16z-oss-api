@@ -1,21 +1,28 @@
 {
   "id": "a16z:epal-inc",
-  "a16z_company_id": null,
+  "a16z_company_id": "371164",
   "name": "EPAL, INC.",
   "slug": "epal-inc",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "E-Pal is the Best-in-class social network for gaming enthusiasts, gamers pay for skill and interest-based matching with skillful ePals.",
+  "website": "https://www.epal.gg/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "seed",
+    "games"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

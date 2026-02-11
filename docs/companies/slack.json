@@ -1,21 +1,26 @@
 {
   "id": "a16z:slack",
-  "a16z_company_id": null,
+  "a16z_company_id": "371017",
   "name": "Slack",
   "slug": "slack",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Slack is a real-time messaging, archiving and search tool for modern teams. \n\nSlack enables users to port in conversations and links to other work from dozens of other apps (including Dropbox, Google Docs, GitHub and Asana) so that they can track progress on different projects in one common platform.",
+  "website": "https://slack.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

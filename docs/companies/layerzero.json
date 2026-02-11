@@ -1,21 +1,25 @@
 {
   "id": "a16z:layerzero",
-  "a16z_company_id": null,
+  "a16z_company_id": "32512",
   "name": "LayerZero",
   "slug": "layerzero",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "LayerZero Labs is a blockchain messaging protocol developer that allows decentralized applications build across multiple blockchains. The company is a User Application (UA) configurable on-chain endpoint that runs a ULN.",
+  "website": "https://layerzero.network",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

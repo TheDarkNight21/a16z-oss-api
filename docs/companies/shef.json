@@ -1,21 +1,25 @@
 {
   "id": "a16z:shef",
-  "a16z_company_id": null,
+  "a16z_company_id": "371252",
   "name": "Shef",
   "slug": "shef",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Shef is a homemade food marketplace that helps local cooks to make a meaningful income from home by selling authentic, homemade dishes to their neighbors. The company was founded by Alvin Salehi and Joey Grassia in 2019 and operates in seven markets, including San Francisco, New York, Seattle, Chicago, and Los Angeles.",
+  "website": "https://shef.com",
+  "status": "active",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

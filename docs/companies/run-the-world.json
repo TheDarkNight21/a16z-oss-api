@@ -1,21 +1,27 @@
 {
   "id": "a16z:run-the-world",
-  "a16z_company_id": null,
+  "a16z_company_id": "371499",
   "name": "Run The World",
   "slug": "run-the-world",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Run The World is a digital platform that enables people to collaborate with and learn from others. Run The World will help people build their event through simple plug and play templates, enabling them to create an engaging online event for their attendees.",
+  "website": "https://www.runtheworld.today/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,26 @@
 {
   "id": "a16z:tilt",
-  "a16z_company_id": null,
+  "a16z_company_id": "371091",
   "name": "Tilt",
   "slug": "tilt",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Kickstarter for group purchases, Tilt allows users to pool funds for objectives in a simple, social, and frictionless way online.",
+  "website": "https://tilt.com",
+  "status": "exited",
+  "sectors": [
+    "fintech"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

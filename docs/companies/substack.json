@@ -1,21 +1,27 @@
 {
   "id": "a16z:substack",
-  "a16z_company_id": null,
+  "a16z_company_id": "14991",
   "name": "Substack",
   "slug": "substack",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Substack is a subscription network based on writing, podcasting, community, and other forms of culture-making. Writers and creators can publish their work and make money from paid subscriptions while readers and consumers can directly support the work that they deeply value.",
+  "website": "https://substack.com/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "growth",
+    "clf"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,27 @@
 {
   "id": "a16z:nautilus-biotechnology",
-  "a16z_company_id": null,
+  "a16z_company_id": "371013",
   "name": "Nautilus Biotechnology",
   "slug": "nautilus-biotechnology",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Accurate single-molecule quantification of proteins and proteoforms",
+  "website": "https://www.nautilus.bio/",
+  "status": "exited",
+  "sectors": [
+    "bio-health",
+    "growth",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

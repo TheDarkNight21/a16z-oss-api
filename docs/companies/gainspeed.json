@@ -1,21 +1,26 @@
 {
   "id": "a16z:gainspeed",
-  "a16z_company_id": null,
+  "a16z_company_id": "371230",
   "name": "Gainspeed",
   "slug": "gainspeed",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Gainspeed is redefining how cable networks are built. The company's Virtual CCAP solution enables cable operators to meet skyrocketing capacity requirements, respond to changing market demands, and rapidly deploy new services all while cost-effectively migrating their networks to a software-driven, all-IP architecture.",
+  "website": "https://www.gainspeed.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

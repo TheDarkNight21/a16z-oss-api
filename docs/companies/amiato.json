@@ -1,21 +1,23 @@
 {
   "id": "a16z:amiato",
-  "a16z_company_id": null,
+  "a16z_company_id": "371123",
   "name": "Amiato",
   "slug": "amiato",
-  "description": null,
+  "description": "Amiato provides real-time analytics services to enable companies to make sense of data by unlocking silos and future-proofing.",
   "website": null,
-  "status": "unknown",
-  "sectors": [],
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
   "stages": [],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

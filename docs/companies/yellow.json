@@ -1,21 +1,26 @@
 {
   "id": "a16z:yellow",
-  "a16z_company_id": null,
+  "a16z_company_id": "366454",
   "name": "Yellow",
   "slug": "yellow",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "3abstracts 3D asset development for games using AI. Yellow partners with AAA games studios, trains models on their assets, and creates tools for these studios to interface with their models.",
+  "website": "https://yellow3d.com/",
+  "status": "active",
+  "sectors": [
+    "games",
+    "ai"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

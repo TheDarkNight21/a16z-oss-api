@@ -1,21 +1,26 @@
 {
   "id": "a16z:sky-mavis",
-  "a16z_company_id": null,
+  "a16z_company_id": "15891",
   "name": "Sky Mavis",
   "slug": "sky-mavis",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Sky Mavis makes crypto fun, accessible, and empowering for everyday people. Their brainchild, Axie Infinity, is a digital pet universe and player-owned economy.",
+  "website": "https://skymavis.com",
+  "status": "active",
+  "sectors": [
+    "growth",
+    "crypto"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

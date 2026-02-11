@@ -1,21 +1,27 @@
 {
   "id": "a16z:rasa",
-  "a16z_company_id": null,
+  "a16z_company_id": "372185",
   "name": "Rasa",
   "slug": "rasa",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Rasa is the leading Conversational AI Platform for building, improving, and scaling enterprise-grade text and voice-based AI Assistants. With over 25 million downloads since its launch, Rasa is used by the world’s largest brands to transform how people interact with organizations through AI.",
+  "website": "https://rasa.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "ai",
+    "infra"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

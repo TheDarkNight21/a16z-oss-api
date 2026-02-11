@@ -1,21 +1,26 @@
 {
   "id": "a16z:capital-xyz",
-  "a16z_company_id": null,
+  "a16z_company_id": "371866",
   "name": "Capital.xyz",
   "slug": "capital-xyz",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Fundraising platform for startups with vision to create a vertical OS. Capital is a financial technology company that offers software to founders to raise, hold, spend, and send funds.",
+  "website": "https://capital.xyz/",
+  "status": "exited",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

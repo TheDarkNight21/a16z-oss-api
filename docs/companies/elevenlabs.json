@@ -1,21 +1,30 @@
 {
   "id": "a16z:elevenlabs",
-  "a16z_company_id": null,
+  "a16z_company_id": "324130",
   "name": "ElevenLabs",
   "slug": "elevenlabs",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "ElevenLabs is a voice AI research & deployment company with a mission to make content universally accessible in any language & voice.\r\n\r\nElevenLabs creates the most realistic, versatile and contextually-aware AI audio, providing the ability to generate speech in hundreds of new and existing voices in over 20 languages. As a technology research company, ElevenLabs is at the forefront of developing new cutting-edge voice AI. We deploy the most advanced models and features accessible via web app or API to a user base from creators to publishers and beyond.",
+  "website": "https://elevenlabs.io/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "enterprise",
+    "growth",
+    "ai",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

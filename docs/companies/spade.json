@@ -1,21 +1,27 @@
 {
   "id": "a16z:spade",
-  "a16z_company_id": null,
+  "a16z_company_id": "29232",
   "name": "Spade",
   "slug": "spade",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Spade is building the next generation of card transaction infrastructure. Their API provides granular merchant, category, and location details for card transactions in real-time. Their customers, including leading card issuers, anti-fraud providers, and fintech companies, use this enriched data to stop fraud, increase authorization rates, improve banking experiences, and more.",
+  "website": "https://spade.com",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

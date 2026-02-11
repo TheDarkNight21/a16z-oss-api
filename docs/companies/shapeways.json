@@ -1,21 +1,25 @@
 {
   "id": "a16z:shapeways",
-  "a16z_company_id": null,
+  "a16z_company_id": "371158",
   "name": "Shapeways",
   "slug": "shapeways",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Shapeways offers 3D technology solutions to enable the automation, innovation, and digitization of product development. Shapeways prints everything on-demand, which means that every order is customized and personalized. By providing a platform for community members to gain access to cutting-edge 3D printing technology and share their designs with the world, Shapeways is democratizing creation for everyone.",
+  "website": "https://www.shapeways.com/",
+  "status": "exited",
+  "sectors": [
+    "american-dynamism"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

@@ -1,21 +1,26 @@
 {
   "id": "a16z:air-space-intelligence",
-  "a16z_company_id": null,
+  "a16z_company_id": "362101",
   "name": "Air Space Intelligence",
   "slug": "air-space-intelligence",
-  "description": null,
-  "website": null,
+  "description": "Air Space Intelligence (ASI) is a software-first aerospace & defense company. We partner with organizations such as the world's largest airlines and US&allied government agencies to ensure the most complex air operations succeed. Our technology provides our partners with a decision-making advantage when and where the stakes are the highest — from air operations centers to the dynamic environment of the flight deck.",
+  "website": "https://www.airspace-intelligence.com/",
   "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "sectors": [
+    "american-dynamism",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

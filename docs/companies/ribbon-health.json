@@ -1,21 +1,26 @@
 {
   "id": "a16z:ribbon-health",
-  "a16z_company_id": null,
+  "a16z_company_id": "372159",
   "name": "Ribbon Health",
   "slug": "ribbon-health",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Provider data API platform to power better healthcare decisions",
+  "website": "https://www.ribbonhealth.com/",
+  "status": "exited",
+  "sectors": [
+    "bio-health",
+    "ai"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

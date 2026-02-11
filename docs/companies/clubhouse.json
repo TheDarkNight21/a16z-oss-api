@@ -1,21 +1,28 @@
 {
   "id": "a16z:clubhouse",
-  "a16z_company_id": null,
+  "a16z_company_id": "15141",
   "name": "Clubhouse",
   "slug": "clubhouse",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Clubhouse is an audio-based social media app that makes it easy to hang out with friends, meet new ones, and talk about anything.",
+  "website": "https://clubhouse.com",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "growth",
+    "clf"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

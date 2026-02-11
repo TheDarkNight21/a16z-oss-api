@@ -1,21 +1,27 @@
 {
   "id": "a16z:openinvest",
-  "a16z_company_id": null,
+  "a16z_company_id": "370819",
   "name": "OpenInvest",
   "slug": "openinvest",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "OpenInvest's mission is to mainstream socially responsible investing. Our team combines senior technologists from the hedge fund industry and global non-profit leaders in order to build the world's first SRI-focused online investment platform. \r\n\r\nUsers tell us what issues they care about, such as climate change, workplace equality, ethical supply chains. We partner with leading authorities on these issues to tell us how companies rate along these dimensions. With that information we construct custom portfolios for our users that are solid, long term strategies, but without supporting companies that go against their beliefs",
+  "website": "https://www.openinvest.com",
+  "status": "exited",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed",
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

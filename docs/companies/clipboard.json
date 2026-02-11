@@ -1,21 +1,25 @@
 {
   "id": "a16z:clipboard",
-  "a16z_company_id": null,
+  "a16z_company_id": "372030",
   "name": "Clipboard",
   "slug": "clipboard",
-  "description": null,
+  "description": "Clipboard is a web platform allowing users to gather links on various topics and store them online. \r\n\r\nSince the Internet is more than two decades old, doesn't it seem strange that the typical way to save something online is to put it into an email or a document? We think so too, whichis why we built an easy and powerful tool to help you.\r\n\r\nAll of this may sound simple, but we think it's actually quite significant. We believe that someday soon everyone will be saving and organizing their online life in a way that is easy, fun and reflective of themselves. It is a world where everyone is highly engaged and active in saving their life experiences online.\r\n\r\nWe are here for you and we are in this for the long haul. Our mission is to help you organize your online life.",
   "website": null,
   "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

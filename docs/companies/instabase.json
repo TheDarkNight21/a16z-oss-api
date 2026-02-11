@@ -1,21 +1,28 @@
 {
   "id": "a16z:instabase",
-  "a16z_company_id": null,
+  "a16z_company_id": "15311",
   "name": "Instabase",
   "slug": "instabase",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Instabase is a simple operating system designed for the web. It uses web browser for the user interface, a pluggable storage for filesystem, and an app store for apps which are accessible via web browser.\n\nThe company provides a number of apps for automating complex business operations for large organizations -- business operations that typically are very human intensive (requires operations team of size ranging from many hundreds to a few thousands of people). In addition, a variety of apps are available for data science including IPython-style notebooks which is widely used by universities for teaching classes.",
+  "website": "https://www.instabase.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "ai",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

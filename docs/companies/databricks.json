@@ -1,21 +1,30 @@
 {
   "id": "a16z:databricks",
-  "a16z_company_id": null,
+  "a16z_company_id": "15047",
   "name": "Databricks",
   "slug": "databricks",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Databricks is the pioneer of the data lakehouse, a unified platform for data science, machine learning, data engineering, and analytics. Founded by the original creators of Apache Spark™, Delta Lake and MLflow, Databricks is on a mission to accelerate AI innovation and help data teams solve the world’s toughest problems with its industry-leading Databricks Lakehouse Platform.",
+  "website": "https://databricks.com",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "growth",
+    "clf",
+    "ai",
+    "infra"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

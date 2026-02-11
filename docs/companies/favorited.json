@@ -1,21 +1,25 @@
 {
   "id": "a16z:favorited",
-  "a16z_company_id": null,
+  "a16z_company_id": "371182",
   "name": "favorited",
   "slug": "favorited",
-  "description": null,
-  "website": null,
+  "description": "Favorited transforms streaming into a fully interactive, gamified adventure, connecting millions of creators and fans in real-time.",
+  "website": "https://www.favorited.com/",
   "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "sectors": [
+    "games"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

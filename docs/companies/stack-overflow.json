@@ -1,21 +1,25 @@
 {
   "id": "a16z:stack-overflow",
-  "a16z_company_id": null,
+  "a16z_company_id": "15395",
   "name": "Stack Overflow",
   "slug": "stack-overflow",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Stack Exchange Inc. operates a network of question and answer sites. It builds libraries of questions and answers that are focused on various topics that range from software programming to cooking to photography and gaming. The company allows the users to ask or answer questions without registering. It serves programmers, researchers, and photographers; and other experts in various fields. Stack Exchange Inc. was formerly known as Stack Overflow, Inc. and changed its name to Stack Exchange Inc. in March 2011. The company was founded in 2008 and is based in New York, New York.",
+  "website": "https://www.stackoverflowbusiness.com/",
+  "status": "exited",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

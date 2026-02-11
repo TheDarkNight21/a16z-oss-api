@@ -1,21 +1,27 @@
 {
   "id": "a16z:truffle-security",
-  "a16z_company_id": null,
+  "a16z_company_id": "372149",
   "name": "Truffle Security",
   "slug": "truffle-security",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Truffle Security is a cybersecurity company that offers network management software solutions for private keys and credentials. The company's software scans the system environment for secrets like private keys and credentials, tracks and manages code within the intuitive management interface as well as authenticates with secure workflows toavoid username and password breaches, helping clients to protect information and reports before an infringement occurs.",
+  "website": "https://trufflesecurity.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "seed",
+    "infra"
+  ],
+  "stages": [
+    "venture"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

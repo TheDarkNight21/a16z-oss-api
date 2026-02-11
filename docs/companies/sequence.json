@@ -1,21 +1,26 @@
 {
   "id": "a16z:sequence",
-  "a16z_company_id": null,
+  "a16z_company_id": "371823",
   "name": "Sequence",
   "slug": "sequence",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Sequence is an integrated billing and pricing solution for B2B scaleups who want to automate their billing, launch usage-based pricing and accelerate finance teams with a source of truth on customer, billing and revenue data. By plugging into your CRM and accounting suite, Sequence streamlines the quote to cash process.",
+  "website": "https://www.sequencehq.com/",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

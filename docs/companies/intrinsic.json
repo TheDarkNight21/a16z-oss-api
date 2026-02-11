@@ -1,21 +1,26 @@
 {
   "id": "a16z:intrinsic",
-  "a16z_company_id": null,
+  "a16z_company_id": "372207",
   "name": "Intrinsic",
   "slug": "intrinsic",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "GitStar protects data in web-applications and increases developers' productivity. It enforces data security policies on web-applications regardless of what the rest of an application's code does. This separation has the obvious benefit of preventing vulnerabilities but also improves developers performance by offloading security from them.",
+  "website": "https://intrinsic.com",
+  "status": "exited",
+  "sectors": [
+    "enterprise",
+    "seed"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

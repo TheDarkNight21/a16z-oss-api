@@ -1,21 +1,28 @@
 {
   "id": "a16z:deel",
-  "a16z_company_id": null,
+  "a16z_company_id": "371043",
   "name": "Deel",
   "slug": "deel",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Deel is the all-in-one HR platform for global teams. The platform helps companies simplify every aspect of managing an international workforce, from culture and onboarding to local payroll and compliance. Deel works for independent contractors and full-time employees in more than 150 countries, compliantly.",
+  "website": "http://www.deel.com",
+  "status": "active",
+  "sectors": [
+    "fintech",
+    "growth",
+    "clf"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

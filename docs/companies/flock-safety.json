@@ -1,21 +1,28 @@
 {
   "id": "a16z:flock-safety",
-  "a16z_company_id": null,
+  "a16z_company_id": "14881",
   "name": "Flock Safety",
   "slug": "flock-safety",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Flock Safety is a public safety operating system that helps cities, businesses, schools, and law enforcement in thousands of communities work together to stop crime, protect privacy, and mitigate bias.",
+  "website": "https://www.flocksafety.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise",
+    "american-dynamism",
+    "growth",
+    "ai"
+  ],
+  "stages": [
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

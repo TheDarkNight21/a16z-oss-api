@@ -1,21 +1,25 @@
 {
   "id": "a16z:socialcam",
-  "a16z_company_id": null,
+  "a16z_company_id": "372157",
   "name": "Socialcam",
   "slug": "socialcam",
-  "description": null,
+  "description": "Socialcam makes it fast, easy and fun to capture, share and view high quality movies of life's moments with friends and family. There's no product today that lets consumers take video from their phone and easily share it.  They are the picplz and Instagram for video.",
   "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "status": "exited",
+  "sectors": [
+    "consumer"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

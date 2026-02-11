@@ -1,21 +1,27 @@
 {
   "id": "a16z:dydx",
-  "a16z_company_id": null,
+  "a16z_company_id": "370861",
   "name": "dYdX",
   "slug": "dydx",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "dYdX is a leading decentralized exchange offering Perpetual, Margin, & Spot trading, as well as borrow / lend pools on Ethereum. dYdX is a leading decentralized exchange built by developers on a mission to build open, secure, and powerful financial products. dYdX runs on audited smart contracts on Ethereum, which eliminates the need to trust a central exchange while trading. We combine the security and transparency of a decentralized exchange, with the speed and usability of a centralized exchange.",
+  "website": "https://dydx.exchange",
+  "status": "active",
+  "sectors": [
+    "crypto"
+  ],
+  "stages": [
+    "seed",
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

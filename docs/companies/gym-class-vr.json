@@ -1,21 +1,27 @@
 {
   "id": "a16z:gym-class-vr",
-  "a16z_company_id": null,
+  "a16z_company_id": "323672",
   "name": "Gym Class VR",
   "slug": "gym-class-vr",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Gym Class is the best way to play basketball with people from all over the world, and the most popular sports game in VR.",
+  "website": "https://www.gymclassvr.com/",
+  "status": "active",
+  "sectors": [
+    "consumer",
+    "seed",
+    "games"
+  ],
+  "stages": [
+    "seed"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

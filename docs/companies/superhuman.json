@@ -1,21 +1,26 @@
 {
   "id": "a16z:superhuman",
-  "a16z_company_id": null,
+  "a16z_company_id": "371799",
   "name": "Superhuman",
   "slug": "superhuman",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Superhuman is a software platform that weaves social insights into a workflow. The platform supports Gmail shortcuts and more allowing its users to snooze a conversation at any time so they focus on what matters, and enjoy a more productive inbox.",
+  "website": "https://superhuman.com/",
+  "status": "active",
+  "sectors": [
+    "enterprise"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }

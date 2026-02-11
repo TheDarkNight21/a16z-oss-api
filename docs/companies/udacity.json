@@ -1,21 +1,27 @@
 {
   "id": "a16z:udacity",
-  "a16z_company_id": null,
+  "a16z_company_id": "372079",
   "name": "Udacity",
   "slug": "udacity",
-  "description": null,
-  "website": null,
-  "status": "unknown",
-  "sectors": [],
-  "stages": [],
+  "description": "Our mission is to bring accessible higher education to the world. We seek to empower our students to develop their skills through learning by doing and to advance their education and careers. We believe that higher education is a basic human right, and it should be available to everyone, everywhere, and any time. And we strive to develop education that is fun, engaging, and effective.",
+  "website": "https://www.udacity.com/",
+  "status": "exited",
+  "sectors": [
+    "consumer",
+    "american-dynamism"
+  ],
+  "stages": [
+    "venture",
+    "growth"
+  ],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-11T03:18:27Z",
-  "last_seen_iso": "2026-02-11T03:18:27Z"
+  "first_seen_iso": "2026-02-11T03:28:42Z",
+  "last_seen_iso": "2026-02-11T03:28:42Z"
 }
