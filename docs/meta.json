@@ -1,0 +1,24 @@
+{
+  "last_updated_iso": "2026-02-11T03:18:27Z",
+  "schema_version": "1.0.0",
+  "total_companies": 1130,
+  "counts_by_status": {
+    "unknown": 1130
+  },
+  "counts_by_sector": {},
+  "counts_by_stage": {},
+  "source_entry_urls": {
+    "investment_list": "https://a16z.com/investment-list/",
+    "portfolio": "https://a16z.com/portfolio/"
+  },
+  "coverage_disclaimer": "This dataset includes only publicly disclosed investments from a16z's investment list. Investments that are not publicly announced or not disclosable are excluded.",
+  "extraction_metrics": {
+    "roster_parsed_count": 1130,
+    "portfolio_match_rate": 0.0,
+    "pct_with_website": 0.0,
+    "pct_with_description": 0.0,
+    "pct_with_sector": 0.0,
+    "pct_with_stage": 0.0,
+    "pct_with_status": 0.0
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://a16z-oss.github.io/api/schema/company.schema.json",
+  "title": "a16z Company",
+  "description": "Canonical schema for an a16z publicly disclosed investment",
+  "type": "object",
+  "required": ["id", "name", "slug", "source_urls", "source_evidence", "first_seen_iso", "last_seen_iso"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable identifier in format a16z:{slug}",
+      "pattern": "^a16z:[a-z0-9][a-z0-9-]*[a-z0-9]$"
+    },
+    "a16z_company_id": {
+      "type": ["string", "null"],
+      "description": "Internal a16z company ID if discoverable from portfolio data"
+    },
+    "name": {
+      "type": "string",
+      "description": "Official company name as listed in the investment list",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "description": "Stable slug derived from company name",
+      "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$"
+    },
+    "description": {
+      "type": ["string", "null"],
+      "description": "Short description from portfolio card or source snippet"
+    },
+    "website": {
+      "type": ["string", "null"],
+      "description": "Official company website URL",
+      "format": "uri"
+    },
+    "status": {
+      "type": ["string", "null"],
+      "description": "Current investment status",
+      "enum": ["active", "exited", "unknown", null]
+    },
+    "sectors": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "description": "Normalized sector IDs"
+    },
+    "stages": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["seed", "venture", "growth", "late", "public", "unknown"]
+      },
+      "description": "Normalized stage IDs"
+    },
+    "source_urls": {
+      "type": "object",
+      "required": ["investment_list"],
+      "properties": {
+        "investment_list": {
+          "type": "string",
+          "description": "URL to the investment list page"
+        },
+        "portfolio": {
+          "type": ["string", "null"],
+          "description": "URL to the portfolio entry if available"
+        }
+      }
+    },
+    "source_evidence": {
+      "type": "object",
+      "required": ["in_investment_list"],
+      "properties": {
+        "in_investment_list": {
+          "type": "boolean",
+          "description": "Whether the company is in the canonical investment list"
+        },
+        "in_portfolio": {
+          "type": "boolean",
+          "description": "Whether the company is in the portfolio browser"
+        }
+      }
+    },
+    "first_seen_iso": {
+      "type": "string",
+      "description": "ISO 8601 timestamp when first discovered",
+      "format": "date-time"
+    },
+    "last_seen_iso": {
+      "type": "string",
+      "description": "ISO 8601 timestamp when last seen",
+      "format": "date-time"
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": "a16z:parsable",
+  "a16z_company_id": null,
+  "name": "Parsable",
+  "slug": "parsable",
+  "description": null,
+  "website": null,
+  "status": "unknown",
+  "sectors": [],
+  "stages": [],
+  "source_urls": {
+    "investment_list": "https://a16z.com/investment-list/",
+    "portfolio": null
+  },
+  "source_evidence": {
+    "in_investment_list": true,
+    "in_portfolio": false
+  },
+  "first_seen_iso": "2026-02-11T03:18:27Z",
+  "last_seen_iso": "2026-02-11T03:18:27Z"
+}
