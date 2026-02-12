@@ -1,5 +1,5 @@
 {
-  "last_updated_iso": "2026-02-11T06:51:21Z",
+  "last_updated_iso": "2026-02-12T06:50:19Z",
   "schema_version": "1.0.0",
   "total_companies": 1130,
   "counts_by_status": {
@@ -33,7 +33,7 @@
   "coverage_disclaimer": "This dataset includes only publicly disclosed investments from a16z's investment list. Investments that are not publicly announced or not disclosable are excluded.",
   "extraction_metrics": {
     "roster_parsed_count": 1130,
-    "portfolio_match_rate": 80.2,
+    "portfolio_match_rate": 80.0,
     "pct_with_website": 56.1,
     "pct_with_description": 50.4,
     "pct_with_sector": 57.3,
