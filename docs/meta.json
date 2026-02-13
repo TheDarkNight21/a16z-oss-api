@@ -1,5 +1,5 @@
 {
-  "last_updated_iso": "2026-02-12T06:50:19Z",
+  "last_updated_iso": "2026-02-13T06:47:26Z",
   "schema_version": "1.0.0",
   "total_companies": 1130,
   "counts_by_status": {
@@ -10,7 +10,7 @@
   "counts_by_sector": {
     "enterprise": 196,
     "ai": 106,
-    "bio-health": 77,
+    "bio-health": 78,
     "infra": 76,
     "fintech": 76,
     "seed": 137,
