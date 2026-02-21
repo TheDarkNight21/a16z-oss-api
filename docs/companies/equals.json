@@ -4,7 +4,7 @@
   "name": "Equals",
   "slug": "equals",
   "description": "Equals is a spreadsheet startup aiming to challenge and replace Excel with its next-generation spreadsheet. The startup provides a spreadsheet with built-in connections to any database, versioning, and collaboration. It enables users to build any analysis with data directly from their database, whether or not they know SQL.",
-  "website": "https://equals.app",
+  "website": "https://equals.com/",
   "status": "active",
   "sectors": [
     "enterprise",
@@ -21,6 +21,6 @@
     "in_investment_list": true,
     "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-20T06:41:54Z",
-  "last_seen_iso": "2026-02-20T06:41:54Z"
+  "first_seen_iso": "2026-02-21T06:30:01Z",
+  "last_seen_iso": "2026-02-21T06:30:01Z"
 }
