@@ -1,17 +1,17 @@
 {
-  "last_updated_iso": "2026-02-27T06:39:43Z",
+  "last_updated_iso": "2026-02-28T06:25:13Z",
   "schema_version": "1.0.0",
   "total_companies": 1130,
   "counts_by_status": {
-    "unknown": 496,
-    "active": 487,
+    "unknown": 497,
+    "active": 486,
     "exited": 147
   },
   "counts_by_sector": {
     "enterprise": 196,
-    "ai": 106,
+    "ai": 107,
     "bio-health": 78,
-    "infra": 76,
+    "infra": 75,
     "fintech": 76,
     "seed": 137,
     "american-dynamism": 52,
@@ -33,11 +33,11 @@
   "coverage_disclaimer": "This dataset includes only publicly disclosed investments from a16z's investment list. Investments that are not publicly announced or not disclosable are excluded.",
   "extraction_metrics": {
     "roster_parsed_count": 1130,
-    "portfolio_match_rate": 79.8,
+    "portfolio_match_rate": 79.4,
     "pct_with_website": 56.1,
     "pct_with_description": 50.4,
     "pct_with_sector": 57.3,
     "pct_with_stage": 52.0,
-    "pct_with_status": 56.1
+    "pct_with_status": 56.0
   }
 }

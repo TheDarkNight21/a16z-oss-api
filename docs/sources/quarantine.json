@@ -116,6 +116,10 @@
     "slug": "arcjet"
   },
   {
+    "name": "Arena",
+    "slug": "arena"
+  },
+  {
     "name": "Autograph.io",
     "slug": "autograph-io"
   },
@@ -162,6 +166,10 @@
   {
     "name": "Catena Labs",
     "slug": "catena-labs"
+  },
+  {
+    "name": "Chariot Defense",
+    "slug": "chariot-defense"
   },
   {
     "name": "CHIP Professionals",
@@ -306,6 +314,10 @@
   {
     "name": "Kadabra",
     "slug": "kadabra"
+  },
+  {
+    "name": "Kavak",
+    "slug": "kavak"
   },
   {
     "name": "Keep",
@@ -574,6 +586,10 @@
   {
     "name": "Tally Labs, Inc.",
     "slug": "tally-labs-inc"
+  },
+  {
+    "name": "Temporal",
+    "slug": "temporal"
   },
   {
     "name": "ternwheel",

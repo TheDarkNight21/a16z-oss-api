@@ -1,21 +1,21 @@
 {
   "id": "a16z:oboe",
-  "a16z_company_id": null,
+  "a16z_company_id": "379831",
   "name": "Oboe",
   "slug": "oboe",
   "description": null,
-  "website": null,
+  "website": "https://oboe.com/",
   "status": "unknown",
   "sectors": [],
   "stages": [],
   "source_urls": {
     "investment_list": "https://a16z.com/investment-list/",
-    "portfolio": null
+    "portfolio": "https://a16z.com/portfolio/"
   },
   "source_evidence": {
     "in_investment_list": true,
-    "in_portfolio": false
+    "in_portfolio": true
   },
-  "first_seen_iso": "2026-02-27T06:39:41Z",
-  "last_seen_iso": "2026-02-27T06:39:41Z"
+  "first_seen_iso": "2026-02-28T06:25:11Z",
+  "last_seen_iso": "2026-02-28T06:25:11Z"
 }
