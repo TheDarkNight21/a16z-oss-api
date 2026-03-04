@@ -12,6 +12,10 @@
     "slug": "automatic-labs-inc"
   },
   {
+    "name": "BBA Inc",
+    "slug": "bba-inc"
+  },
+  {
     "name": "DeepMap.ai",
     "slug": "deepmap-ai"
   },
@@ -126,10 +130,6 @@
   {
     "name": "Backbone Systems",
     "slug": "backbone-systems"
-  },
-  {
-    "name": "BBA Inc",
-    "slug": "bba-inc"
   },
   {
     "name": "Beacons",
@@ -390,10 +390,6 @@
   {
     "name": "Mirelo AI",
     "slug": "mirelo-ai"
-  },
-  {
-    "name": "MLT",
-    "slug": "mlt"
   },
   {
     "name": "Morpho",
