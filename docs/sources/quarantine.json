@@ -272,6 +272,10 @@
     "slug": "fwb"
   },
   {
+    "name": "Galadyne",
+    "slug": "galadyne"
+  },
+  {
     "name": "GamerXSociety",
     "slug": "gamerxsociety"
   },
@@ -342,6 +346,10 @@
   {
     "name": "Leona Health",
     "slug": "leona-health"
+  },
+  {
+    "name": "Lio",
+    "slug": "lio"
   },
   {
     "name": "Loop",
